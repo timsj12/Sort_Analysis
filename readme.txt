@@ -1,4 +1,3 @@
-Tim Jarvis - Lab 4 Sorting
 
 Compile the program by:
 1) navigating to folder where input file and .java files are located via the command prompt

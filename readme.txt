@@ -2,14 +2,14 @@
 Compile the program by:
 1) navigating to folder where input file and .java files are located via the command prompt
 2) running the following:
-	"javac Lab4_Sorting.java" to compile the code
+	"javac Sorting.java" to compile the code
 
 Run the program by:
 1 command line arguements is required
 
 1) navigating to folder where input file and .java files are located via the command prompt
 2) running the following:
-	"java Lab4_Sorting.java "*****.txt"
+	"java Sorting.java "*****.txt"
 
 Note: Text file must have integer values only.
 

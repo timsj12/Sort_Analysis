@@ -1,0 +1,364 @@
+Natural Merge File Size 50 using file:  ran50.txt
+
+UnSorted List: 
+93
+81
+104
+72
+167
+129
+175
+157
+25
+226
+121
+133
+4
+42
+160
+111
+73
+9
+26
+200
+185
+40
+124
+158
+127
+76
+29
+83
+178
+51
+150
+33
+172
+35
+176
+93
+238
+71
+77
+134
+41
+208
+132
+131
+205
+226
+163
+13
+104
+135
+
+81 Compared to 93	93 Selected for Exchange
+104 Compared to 81	104 Selected for Exchange
+72 Compared to 104	104 Selected for Exchange
+167 Compared to 72	167 Selected for Exchange
+129 Compared to 167	167 Selected for Exchange
+175 Compared to 129	175 Selected for Exchange
+157 Compared to 175	175 Selected for Exchange
+25 Compared to 157	157 Selected for Exchange
+226 Compared to 25	226 Selected for Exchange
+121 Compared to 226	226 Selected for Exchange
+133 Compared to 121	133 Selected for Exchange
+4 Compared to 133	133 Selected for Exchange
+42 Compared to 4	42 Selected for Exchange
+160 Compared to 42	160 Selected for Exchange
+111 Compared to 160	160 Selected for Exchange
+73 Compared to 111	111 Selected for Exchange
+9 Compared to 73	73 Selected for Exchange
+26 Compared to 9	26 Selected for Exchange
+200 Compared to 26	200 Selected for Exchange
+185 Compared to 200	200 Selected for Exchange
+40 Compared to 185	185 Selected for Exchange
+124 Compared to 40	124 Selected for Exchange
+158 Compared to 124	158 Selected for Exchange
+127 Compared to 158	158 Selected for Exchange
+76 Compared to 127	127 Selected for Exchange
+29 Compared to 76	76 Selected for Exchange
+83 Compared to 29	83 Selected for Exchange
+178 Compared to 83	178 Selected for Exchange
+51 Compared to 178	178 Selected for Exchange
+150 Compared to 51	150 Selected for Exchange
+33 Compared to 150	150 Selected for Exchange
+172 Compared to 33	172 Selected for Exchange
+35 Compared to 172	172 Selected for Exchange
+176 Compared to 35	176 Selected for Exchange
+93 Compared to 176	176 Selected for Exchange
+238 Compared to 93	238 Selected for Exchange
+71 Compared to 238	238 Selected for Exchange
+77 Compared to 71	77 Selected for Exchange
+134 Compared to 77	134 Selected for Exchange
+41 Compared to 134	134 Selected for Exchange
+208 Compared to 41	208 Selected for Exchange
+132 Compared to 208	208 Selected for Exchange
+131 Compared to 132	132 Selected for Exchange
+205 Compared to 131	205 Selected for Exchange
+226 Compared to 205	226 Selected for Exchange
+163 Compared to 226	226 Selected for Exchange
+13 Compared to 163	163 Selected for Exchange
+104 Compared to 13	104 Selected for Exchange
+135 Compared to 104	135 Selected for Exchange
+93 Compared to 81	93 Selected for Exchange
+93 Compared to 104	104 Selected for Exchange
+72 Compared to 129	129 Selected for Exchange
+167 Compared to 129	167 Selected for Exchange
+167 Compared to 175	175 Selected for Exchange
+157 Compared to 25	157 Selected for Exchange
+157 Compared to 226	226 Selected for Exchange
+121 Compared to 4	121 Selected for Exchange
+121 Compared to 42	121 Selected for Exchange
+121 Compared to 160	160 Selected for Exchange
+133 Compared to 160	160 Selected for Exchange
+111 Compared to 73	111 Selected for Exchange
+9 Compared to 185	185 Selected for Exchange
+26 Compared to 185	185 Selected for Exchange
+200 Compared to 185	200 Selected for Exchange
+40 Compared to 127	127 Selected for Exchange
+124 Compared to 127	127 Selected for Exchange
+158 Compared to 127	158 Selected for Exchange
+76 Compared to 29	76 Selected for Exchange
+76 Compared to 83	83 Selected for Exchange
+51 Compared to 33	51 Selected for Exchange
+51 Compared to 172	172 Selected for Exchange
+150 Compared to 172	172 Selected for Exchange
+35 Compared to 93	93 Selected for Exchange
+176 Compared to 93	176 Selected for Exchange
+176 Compared to 238	238 Selected for Exchange
+71 Compared to 41	71 Selected for Exchange
+71 Compared to 208	208 Selected for Exchange
+77 Compared to 208	208 Selected for Exchange
+134 Compared to 208	208 Selected for Exchange
+132 Compared to 131	132 Selected for Exchange
+132 Compared to 205	205 Selected for Exchange
+163 Compared to 13	163 Selected for Exchange
+163 Compared to 104	163 Selected for Exchange
+163 Compared to 135	163 Selected for Exchange
+81 Compared to 72	81 Selected for Exchange
+81 Compared to 129	129 Selected for Exchange
+93 Compared to 129	129 Selected for Exchange
+104 Compared to 129	129 Selected for Exchange
+25 Compared to 4	25 Selected for Exchange
+25 Compared to 42	42 Selected for Exchange
+157 Compared to 42	157 Selected for Exchange
+157 Compared to 121	157 Selected for Exchange
+157 Compared to 133	157 Selected for Exchange
+157 Compared to 160	160 Selected for Exchange
+226 Compared to 160	226 Selected for Exchange
+73 Compared to 9	73 Selected for Exchange
+73 Compared to 26	73 Selected for Exchange
+73 Compared to 185	185 Selected for Exchange
+111 Compared to 185	185 Selected for Exchange
+40 Compared to 29	40 Selected for Exchange
+40 Compared to 76	76 Selected for Exchange
+124 Compared to 76	124 Selected for Exchange
+124 Compared to 83	124 Selected for Exchange
+124 Compared to 178	178 Selected for Exchange
+127 Compared to 178	178 Selected for Exchange
+158 Compared to 178	178 Selected for Exchange
+33 Compared to 35	35 Selected for Exchange
+51 Compared to 35	51 Selected for Exchange
+51 Compared to 93	93 Selected for Exchange
+150 Compared to 93	150 Selected for Exchange
+150 Compared to 176	176 Selected for Exchange
+172 Compared to 176	176 Selected for Exchange
+41 Compared to 131	131 Selected for Exchange
+71 Compared to 131	131 Selected for Exchange
+77 Compared to 131	131 Selected for Exchange
+134 Compared to 131	134 Selected for Exchange
+134 Compared to 132	134 Selected for Exchange
+134 Compared to 205	205 Selected for Exchange
+208 Compared to 205	208 Selected for Exchange
+208 Compared to 226	226 Selected for Exchange
+72 Compared to 4	72 Selected for Exchange
+72 Compared to 25	72 Selected for Exchange
+72 Compared to 42	72 Selected for Exchange
+72 Compared to 121	121 Selected for Exchange
+81 Compared to 121	121 Selected for Exchange
+93 Compared to 121	121 Selected for Exchange
+104 Compared to 121	121 Selected for Exchange
+129 Compared to 121	129 Selected for Exchange
+129 Compared to 133	133 Selected for Exchange
+167 Compared to 133	167 Selected for Exchange
+167 Compared to 157	167 Selected for Exchange
+167 Compared to 160	167 Selected for Exchange
+167 Compared to 226	226 Selected for Exchange
+175 Compared to 226	226 Selected for Exchange
+9 Compared to 29	29 Selected for Exchange
+26 Compared to 29	29 Selected for Exchange
+73 Compared to 29	73 Selected for Exchange
+73 Compared to 40	73 Selected for Exchange
+73 Compared to 76	76 Selected for Exchange
+111 Compared to 76	111 Selected for Exchange
+111 Compared to 83	111 Selected for Exchange
+111 Compared to 124	124 Selected for Exchange
+185 Compared to 124	185 Selected for Exchange
+185 Compared to 127	185 Selected for Exchange
+185 Compared to 158	185 Selected for Exchange
+185 Compared to 178	185 Selected for Exchange
+33 Compared to 41	41 Selected for Exchange
+35 Compared to 41	41 Selected for Exchange
+51 Compared to 41	51 Selected for Exchange
+51 Compared to 71	71 Selected for Exchange
+93 Compared to 71	93 Selected for Exchange
+93 Compared to 77	93 Selected for Exchange
+93 Compared to 131	131 Selected for Exchange
+150 Compared to 131	150 Selected for Exchange
+150 Compared to 132	150 Selected for Exchange
+150 Compared to 134	150 Selected for Exchange
+150 Compared to 205	205 Selected for Exchange
+172 Compared to 205	205 Selected for Exchange
+176 Compared to 205	205 Selected for Exchange
+238 Compared to 205	238 Selected for Exchange
+238 Compared to 208	238 Selected for Exchange
+238 Compared to 226	238 Selected for Exchange
+4 Compared to 9	9 Selected for Exchange
+25 Compared to 9	25 Selected for Exchange
+25 Compared to 26	26 Selected for Exchange
+42 Compared to 26	42 Selected for Exchange
+42 Compared to 29	42 Selected for Exchange
+42 Compared to 40	42 Selected for Exchange
+42 Compared to 73	73 Selected for Exchange
+72 Compared to 73	73 Selected for Exchange
+81 Compared to 73	81 Selected for Exchange
+81 Compared to 76	81 Selected for Exchange
+81 Compared to 83	83 Selected for Exchange
+93 Compared to 83	93 Selected for Exchange
+93 Compared to 111	111 Selected for Exchange
+104 Compared to 111	111 Selected for Exchange
+121 Compared to 111	121 Selected for Exchange
+121 Compared to 124	124 Selected for Exchange
+129 Compared to 124	129 Selected for Exchange
+129 Compared to 127	129 Selected for Exchange
+129 Compared to 158	158 Selected for Exchange
+133 Compared to 158	158 Selected for Exchange
+157 Compared to 158	158 Selected for Exchange
+160 Compared to 158	160 Selected for Exchange
+160 Compared to 178	178 Selected for Exchange
+167 Compared to 178	178 Selected for Exchange
+175 Compared to 178	178 Selected for Exchange
+226 Compared to 178	226 Selected for Exchange
+226 Compared to 185	226 Selected for Exchange
+226 Compared to 200	226 Selected for Exchange
+33 Compared to 13	33 Selected for Exchange
+33 Compared to 104	104 Selected for Exchange
+35 Compared to 104	104 Selected for Exchange
+41 Compared to 104	104 Selected for Exchange
+51 Compared to 104	104 Selected for Exchange
+71 Compared to 104	104 Selected for Exchange
+77 Compared to 104	104 Selected for Exchange
+93 Compared to 104	104 Selected for Exchange
+131 Compared to 104	131 Selected for Exchange
+131 Compared to 135	135 Selected for Exchange
+132 Compared to 135	135 Selected for Exchange
+134 Compared to 135	135 Selected for Exchange
+150 Compared to 135	150 Selected for Exchange
+150 Compared to 163	163 Selected for Exchange
+172 Compared to 163	172 Selected for Exchange
+4 Compared to 13	13 Selected for Exchange
+9 Compared to 13	13 Selected for Exchange
+25 Compared to 13	25 Selected for Exchange
+25 Compared to 33	33 Selected for Exchange
+26 Compared to 33	33 Selected for Exchange
+29 Compared to 33	33 Selected for Exchange
+40 Compared to 33	40 Selected for Exchange
+40 Compared to 35	40 Selected for Exchange
+40 Compared to 41	41 Selected for Exchange
+42 Compared to 41	42 Selected for Exchange
+42 Compared to 51	51 Selected for Exchange
+72 Compared to 51	72 Selected for Exchange
+72 Compared to 71	72 Selected for Exchange
+72 Compared to 77	77 Selected for Exchange
+73 Compared to 77	77 Selected for Exchange
+76 Compared to 77	77 Selected for Exchange
+81 Compared to 77	81 Selected for Exchange
+81 Compared to 93	93 Selected for Exchange
+83 Compared to 93	93 Selected for Exchange
+93 Compared to 93	93 Selected for Exchange
+104 Compared to 93	104 Selected for Exchange
+104 Compared to 104	104 Selected for Exchange
+111 Compared to 104	111 Selected for Exchange
+111 Compared to 131	131 Selected for Exchange
+121 Compared to 131	131 Selected for Exchange
+124 Compared to 131	131 Selected for Exchange
+127 Compared to 131	131 Selected for Exchange
+129 Compared to 131	131 Selected for Exchange
+133 Compared to 131	133 Selected for Exchange
+133 Compared to 132	133 Selected for Exchange
+133 Compared to 134	134 Selected for Exchange
+157 Compared to 134	157 Selected for Exchange
+157 Compared to 135	157 Selected for Exchange
+157 Compared to 150	157 Selected for Exchange
+157 Compared to 163	163 Selected for Exchange
+158 Compared to 163	163 Selected for Exchange
+160 Compared to 163	163 Selected for Exchange
+167 Compared to 163	167 Selected for Exchange
+167 Compared to 172	172 Selected for Exchange
+175 Compared to 172	175 Selected for Exchange
+175 Compared to 176	176 Selected for Exchange
+178 Compared to 176	178 Selected for Exchange
+178 Compared to 205	205 Selected for Exchange
+185 Compared to 205	205 Selected for Exchange
+200 Compared to 205	205 Selected for Exchange
+226 Compared to 205	226 Selected for Exchange
+226 Compared to 208	226 Selected for Exchange
+226 Compared to 226	226 Selected for Exchange
+
+Sorted List: 
+4
+9
+13
+25
+26
+29
+33
+35
+40
+41
+42
+51
+71
+72
+73
+76
+77
+81
+83
+93
+93
+104
+104
+111
+121
+124
+127
+129
+131
+132
+133
+134
+135
+150
+157
+158
+160
+163
+167
+172
+175
+176
+178
+185
+200
+205
+208
+226
+226
+238
+
+Comparison: 253	Exchanges: 253	 Merges: 25
+
+
+

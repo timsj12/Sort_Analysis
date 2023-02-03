@@ -1,0 +1,109 @@
+File, Sort Type, Comparisons, Exchanges, Merges
+asc50.txt, Natural Merge Sort, 49, 49, 0
+asc50.txt, QuickSort Insertion Size 100 First Value Pivot, 52, 0
+asc50.txt, QuickSort Insertion Size 50 First Value Pivot, 52, 0
+asc50.txt, QuickSort Only First Value Pivot, 1471, 0
+asc50.txt, QuickSort Only Median of 3 Pivot, 830, 0
+asc50.txt, Insertion Sort, 52, 0
+asc1K.txt, Natural Merge Sort, 999, 999, 0
+asc1K.txt, QuickSort Insertion Size 100 First Value Pivot, 499947, 0
+asc1K.txt, QuickSort Insertion Size 50 First Value Pivot, 503972, 0
+asc1K.txt, QuickSort Only First Value Pivot, 504496, 0
+asc1K.txt, QuickSort Only Median of 3 Pivot, 175130, 0
+asc1K.txt, Insertion Sort, 1002, 0
+asc2K.txt, Natural Merge Sort, 1999, 1999, 0
+asc2K.txt, QuickSort Insertion Size 100 First Value Pivot, 2005447, 0
+asc2K.txt, QuickSort Insertion Size 50 First Value Pivot, 2009472, 0
+asc2K.txt, QuickSort Only First Value Pivot, 2008996, 0
+asc2K.txt, QuickSort Only Median of 3 Pivot, 683630, 0
+asc2K.txt, Insertion Sort, 2002, 0
+asc5K.txt, Natural Merge Sort, 4999, 4999, 0
+asc5K.txt, QuickSort Insertion Size 100 First Value Pivot, 12521947, 0
+asc5K.txt, QuickSort Insertion Size 50 First Value Pivot, 12525972, 0
+asc5K.txt, QuickSort Only First Value Pivot, 12522496, 0
+asc5K.txt, QuickSort Only Median of 3 Pivot, 4208969, 0
+asc5K.txt, Insertion Sort, 5002, 0
+asc10K.txt, Natural Merge Sort, 9999, 9999, 0
+asc10K.txt, QuickSort Insertion Size 100 First Value Pivot, 50049447, 0
+asc10K.txt, QuickSort Insertion Size 50 First Value Pivot, 50053472, 0
+asc10K.txt, QuickSort Only First Value Pivot, 50044996, 0
+asc10K.txt, QuickSort Only Median of 3 Pivot, 16751469, 0
+asc10K.txt, Insertion Sort, 10002, 0
+asc20K.txt, Natural Merge Sort, 19999, 19999, 0
+asc20K.txt, QuickSort Insertion Size 100 First Value Pivot, 200104447, 0
+asc20K.txt, QuickSort Insertion Size 50 First Value Pivot, 200108472, 0
+asc20K.txt, QuickSort Only First Value Pivot, 200089996, 0
+asc20K.txt, QuickSort Only Median of 3 Pivot, 66836469, 0
+asc20K.txt, Insertion Sort, 20002, 0
+rev50.txt, Natural Merge Sort, 182, 182, 49
+rev50.txt, QuickSort Insertion Size 100 First Value Pivot, 1277, 1225
+rev50.txt, QuickSort Insertion Size 50 First Value Pivot, 1277, 1225
+rev50.txt, QuickSort Only First Value Pivot, 1521, 25
+rev50.txt, QuickSort Only Median of 3 Pivot, 856, 25
+rev50.txt, Insertion Sort, 1277, 1225
+rev1K.txt, Natural Merge Sort, 5931, 5931, 999
+rev1K.txt, QuickSort Insertion Size 100 First Value Pivot, 505797, 5400
+rev1K.txt, QuickSort Insertion Size 50 First Value Pivot, 506147, 1700
+rev1K.txt, QuickSort Only First Value Pivot, 505496, 500
+rev1K.txt, QuickSort Only Median of 3 Pivot, 175631, 500
+rev1K.txt, Insertion Sort, 500502, 499500
+rev2K.txt, Natural Merge Sort, 12863, 12863, 1999
+rev2K.txt, QuickSort Insertion Size 100 First Value Pivot, 2012297, 5900
+rev2K.txt, QuickSort Insertion Size 50 First Value Pivot, 2012647, 2200
+rev2K.txt, QuickSort Only First Value Pivot, 2010996, 1000
+rev2K.txt, QuickSort Only Median of 3 Pivot, 684631, 1000
+rev2K.txt, Insertion Sort, 2001002, 1999000
+rev5K.txt, Natural Merge Sort, 34803, 34803, 4999
+rev5K.txt, QuickSort Insertion Size 100 First Value Pivot, 12531797, 7400
+rev5K.txt, QuickSort Insertion Size 50 First Value Pivot, 12532147, 3700
+rev5K.txt, QuickSort Only First Value Pivot, 12527496, 2500
+rev5K.txt, QuickSort Only Median of 3 Pivot, 4211470, 2500
+rev5K.txt, Insertion Sort, 12502502, 12497500
+rev10K.txt, Natural Merge Sort, 74607, 74607, 9999
+rev10K.txt, QuickSort Insertion Size 100 First Value Pivot, 50064297, 9900
+rev10K.txt, QuickSort Insertion Size 50 First Value Pivot, 50064647, 6200
+rev10K.txt, QuickSort Only First Value Pivot, 50054996, 5000
+rev10K.txt, QuickSort Only Median of 3 Pivot, 16756470, 5000
+rev10K.txt, Insertion Sort, 50005002, 49995000
+rev20K.txt, Natural Merge Sort, 159215, 159215, 19999
+rev20K.txt, QuickSort Insertion Size 100 First Value Pivot, 200129297, 14900
+rev20K.txt, QuickSort Insertion Size 50 First Value Pivot, 200129647, 11200
+rev20K.txt, QuickSort Only First Value Pivot, 200109996, 10000
+rev20K.txt, QuickSort Only Median of 3 Pivot, 66846470, 10000
+rev20K.txt, Insertion Sort, 200010002, 199990000
+ran50.txt, Natural Merge Sort, 253, 253, 25
+ran50.txt, QuickSort Insertion Size 100 First Value Pivot, 603, 551
+ran50.txt, QuickSort Insertion Size 50 First Value Pivot, 603, 551
+ran50.txt, QuickSort Only First Value Pivot, 653, 67
+ran50.txt, QuickSort Only Median of 3 Pivot, 764, 71
+ran50.txt, Insertion Sort, 603, 551
+ran1K.txt, Natural Merge Sort, 9201, 9201, 511
+ran1K.txt, QuickSort Insertion Size 100 First Value Pivot, 24814, 18221
+ran1K.txt, QuickSort Insertion Size 50 First Value Pivot, 18340, 9864
+ran1K.txt, QuickSort Only First Value Pivot, 20702, 2383
+ran1K.txt, QuickSort Only Median of 3 Pivot, 21958, 2397
+ran1K.txt, Insertion Sort, 247698, 246696
+ran2K.txt, Natural Merge Sort, 20432, 20432, 1005
+ran2K.txt, QuickSort Insertion Size 100 First Value Pivot, 52965, 35775
+ran2K.txt, QuickSort Insertion Size 50 First Value Pivot, 40677, 20527
+ran2K.txt, QuickSort Only First Value Pivot, 45467, 5181
+ran2K.txt, QuickSort Only Median of 3 Pivot, 47733, 5253
+ran2K.txt, Insertion Sort, 1021479, 1019477
+ran5K.txt, Natural Merge Sort, 59244, 59244, 2527
+ran5K.txt, QuickSort Insertion Size 100 First Value Pivot, 145658, 89470
+ran5K.txt, QuickSort Insertion Size 50 First Value Pivot, 112882, 48807
+ran5K.txt, QuickSort Only First Value Pivot, 127440, 14430
+ran5K.txt, QuickSort Only Median of 3 Pivot, 127248, 14718
+ran5K.txt, Insertion Sort, 6264809, 6259807
+ran10K.txt, Natural Merge Sort, 128695, 128695, 4973
+ran10K.txt, QuickSort Insertion Size 100 First Value Pivot, 307191, 183533
+ran10K.txt, QuickSort Insertion Size 50 First Value Pivot, 242787, 100774
+ran10K.txt, QuickSort Only First Value Pivot, 271471, 31366
+ran10K.txt, QuickSort Only Median of 3 Pivot, 271342, 31593
+ran10K.txt, Insertion Sort, 24919378, 24909376
+ran20K.txt, Natural Merge Sort, 277197, 277197, 9961
+ran20K.txt, QuickSort Insertion Size 100 First Value Pivot, 684648, 378021
+ran20K.txt, QuickSort Insertion Size 50 First Value Pivot, 552173, 210686
+ran20K.txt, QuickSort Only First Value Pivot, 604965, 66763
+ran20K.txt, QuickSort Only Median of 3 Pivot, 591125, 67090
+ran20K.txt, Insertion Sort, 100187899, 100167897

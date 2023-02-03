@@ -1,0 +1,830 @@
+Merge Sort File Size 50, Insertion Sort: false using file:  ran50.txt
+
+Pivot: First Item
+
+UnSorted List: 
+93
+81
+104
+72
+167
+129
+175
+157
+25
+226
+121
+133
+4
+42
+160
+111
+73
+9
+26
+200
+185
+40
+124
+158
+127
+76
+29
+83
+178
+51
+150
+33
+172
+35
+176
+93
+238
+71
+77
+134
+41
+208
+132
+131
+205
+226
+163
+13
+104
+135
+
+Low Index: 0 Compared to High Index: 49
+Low Index Value: 93 Compared to Pivot Value: 93
+High Index Value: 135 Compared to Pivot Value: 93
+High Index Value: 104 Compared to Pivot Value: 93
+High Index Value: 13 Compared to Pivot Value: 93
+Low Index: 0 Compared to High Index: 47 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 93 EXCHANGED With High Index Value: 13
+Low Index Value: 81 Compared to Pivot Value: 93
+Low Index Value: 104 Compared to Pivot Value: 93
+High Index Value: 163 Compared to Pivot Value: 93
+High Index Value: 226 Compared to Pivot Value: 93
+High Index Value: 205 Compared to Pivot Value: 93
+High Index Value: 131 Compared to Pivot Value: 93
+High Index Value: 132 Compared to Pivot Value: 93
+High Index Value: 208 Compared to Pivot Value: 93
+High Index Value: 41 Compared to Pivot Value: 93
+Low Index: 2 Compared to High Index: 40 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 104 EXCHANGED With High Index Value: 41
+Low Index Value: 72 Compared to Pivot Value: 93
+Low Index Value: 167 Compared to Pivot Value: 93
+High Index Value: 134 Compared to Pivot Value: 93
+High Index Value: 77 Compared to Pivot Value: 93
+Low Index: 4 Compared to High Index: 38 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 167 EXCHANGED With High Index Value: 77
+Low Index Value: 129 Compared to Pivot Value: 93
+High Index Value: 71 Compared to Pivot Value: 93
+Low Index: 5 Compared to High Index: 37 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 129 EXCHANGED With High Index Value: 71
+Low Index Value: 175 Compared to Pivot Value: 93
+High Index Value: 238 Compared to Pivot Value: 93
+High Index Value: 93 Compared to Pivot Value: 93
+Low Index: 6 Compared to High Index: 35 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 175 EXCHANGED With High Index Value: 93
+Low Index Value: 157 Compared to Pivot Value: 93
+High Index Value: 176 Compared to Pivot Value: 93
+High Index Value: 35 Compared to Pivot Value: 93
+Low Index: 7 Compared to High Index: 33 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 157 EXCHANGED With High Index Value: 35
+Low Index Value: 25 Compared to Pivot Value: 93
+Low Index Value: 226 Compared to Pivot Value: 93
+High Index Value: 172 Compared to Pivot Value: 93
+High Index Value: 33 Compared to Pivot Value: 93
+Low Index: 9 Compared to High Index: 31 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 226 EXCHANGED With High Index Value: 33
+Low Index Value: 121 Compared to Pivot Value: 93
+High Index Value: 150 Compared to Pivot Value: 93
+High Index Value: 51 Compared to Pivot Value: 93
+Low Index: 10 Compared to High Index: 29 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 121 EXCHANGED With High Index Value: 51
+Low Index Value: 133 Compared to Pivot Value: 93
+High Index Value: 178 Compared to Pivot Value: 93
+High Index Value: 83 Compared to Pivot Value: 93
+Low Index: 11 Compared to High Index: 27 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 133 EXCHANGED With High Index Value: 83
+Low Index Value: 4 Compared to Pivot Value: 93
+Low Index Value: 42 Compared to Pivot Value: 93
+Low Index Value: 160 Compared to Pivot Value: 93
+High Index Value: 29 Compared to Pivot Value: 93
+Low Index: 14 Compared to High Index: 26 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 160 EXCHANGED With High Index Value: 29
+Low Index Value: 111 Compared to Pivot Value: 93
+High Index Value: 76 Compared to Pivot Value: 93
+Low Index: 15 Compared to High Index: 25 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 111 EXCHANGED With High Index Value: 76
+Low Index Value: 73 Compared to Pivot Value: 93
+Low Index Value: 9 Compared to Pivot Value: 93
+Low Index Value: 26 Compared to Pivot Value: 93
+Low Index Value: 200 Compared to Pivot Value: 93
+High Index Value: 127 Compared to Pivot Value: 93
+High Index Value: 158 Compared to Pivot Value: 93
+High Index Value: 124 Compared to Pivot Value: 93
+High Index Value: 40 Compared to Pivot Value: 93
+Low Index: 19 Compared to High Index: 21 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 200 EXCHANGED With High Index Value: 40
+Low Index Value: 185 Compared to Pivot Value: 93
+High Index Value: 185 Compared to Pivot Value: 93
+High Index Value: 40 Compared to Pivot Value: 93
+Low Index: 20 Compared to High Index: 19
+Low Index: 0 Compared to High Index: 19
+Low Index Value: 13 Compared to Pivot Value: 13
+High Index Value: 40 Compared to Pivot Value: 13
+High Index Value: 26 Compared to Pivot Value: 13
+High Index Value: 9 Compared to Pivot Value: 13
+Low Index: 0 Compared to High Index: 17 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 13 EXCHANGED With High Index Value: 9
+Low Index Value: 81 Compared to Pivot Value: 13
+High Index Value: 73 Compared to Pivot Value: 13
+High Index Value: 76 Compared to Pivot Value: 13
+High Index Value: 29 Compared to Pivot Value: 13
+High Index Value: 42 Compared to Pivot Value: 13
+High Index Value: 4 Compared to Pivot Value: 13
+Low Index: 1 Compared to High Index: 12 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 81 EXCHANGED With High Index Value: 4
+Low Index Value: 41 Compared to Pivot Value: 13
+High Index Value: 83 Compared to Pivot Value: 13
+High Index Value: 51 Compared to Pivot Value: 13
+High Index Value: 33 Compared to Pivot Value: 13
+High Index Value: 25 Compared to Pivot Value: 13
+High Index Value: 35 Compared to Pivot Value: 13
+High Index Value: 93 Compared to Pivot Value: 13
+High Index Value: 71 Compared to Pivot Value: 13
+High Index Value: 77 Compared to Pivot Value: 13
+High Index Value: 72 Compared to Pivot Value: 13
+High Index Value: 41 Compared to Pivot Value: 13
+High Index Value: 4 Compared to Pivot Value: 13
+Low Index: 2 Compared to High Index: 1
+Low Index: 0 Compared to High Index: 1
+Low Index Value: 9 Compared to Pivot Value: 9
+High Index Value: 4 Compared to Pivot Value: 9
+Low Index: 0 Compared to High Index: 1 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 9 EXCHANGED With High Index Value: 4
+Low Index Value: 9 Compared to Pivot Value: 9
+High Index Value: 4 Compared to Pivot Value: 9
+Low Index: 1 Compared to High Index: 0
+Low Index: 0 Compared to High Index: 0
+Low Index: 1 Compared to High Index: 1
+Low Index: 2 Compared to High Index: 19
+Low Index Value: 41 Compared to Pivot Value: 41
+High Index Value: 40 Compared to Pivot Value: 41
+Low Index: 2 Compared to High Index: 19 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 41 EXCHANGED With High Index Value: 40
+Low Index Value: 72 Compared to Pivot Value: 41
+High Index Value: 26 Compared to Pivot Value: 41
+Low Index: 3 Compared to High Index: 18 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 72 EXCHANGED With High Index Value: 26
+Low Index Value: 77 Compared to Pivot Value: 41
+High Index Value: 13 Compared to Pivot Value: 41
+Low Index: 4 Compared to High Index: 17 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 77 EXCHANGED With High Index Value: 13
+Low Index Value: 71 Compared to Pivot Value: 41
+High Index Value: 73 Compared to Pivot Value: 41
+High Index Value: 76 Compared to Pivot Value: 41
+High Index Value: 29 Compared to Pivot Value: 41
+Low Index: 5 Compared to High Index: 14 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 71 EXCHANGED With High Index Value: 29
+Low Index Value: 93 Compared to Pivot Value: 41
+High Index Value: 42 Compared to Pivot Value: 41
+High Index Value: 81 Compared to Pivot Value: 41
+High Index Value: 83 Compared to Pivot Value: 41
+High Index Value: 51 Compared to Pivot Value: 41
+High Index Value: 33 Compared to Pivot Value: 41
+Low Index: 6 Compared to High Index: 9 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 93 EXCHANGED With High Index Value: 33
+Low Index Value: 35 Compared to Pivot Value: 41
+Low Index Value: 25 Compared to Pivot Value: 41
+Low Index Value: 93 Compared to Pivot Value: 41
+High Index Value: 25 Compared to Pivot Value: 41
+Low Index: 9 Compared to High Index: 8
+Low Index: 2 Compared to High Index: 8
+Low Index Value: 40 Compared to Pivot Value: 40
+High Index Value: 25 Compared to Pivot Value: 40
+Low Index: 2 Compared to High Index: 8 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 40 EXCHANGED With High Index Value: 25
+Low Index Value: 26 Compared to Pivot Value: 40
+Low Index Value: 13 Compared to Pivot Value: 40
+Low Index Value: 29 Compared to Pivot Value: 40
+Low Index Value: 33 Compared to Pivot Value: 40
+Low Index Value: 35 Compared to Pivot Value: 40
+Low Index Value: 40 Compared to Pivot Value: 40
+High Index Value: 35 Compared to Pivot Value: 40
+Low Index: 8 Compared to High Index: 7
+Low Index: 2 Compared to High Index: 7
+Low Index Value: 25 Compared to Pivot Value: 25
+High Index Value: 35 Compared to Pivot Value: 25
+High Index Value: 33 Compared to Pivot Value: 25
+High Index Value: 29 Compared to Pivot Value: 25
+High Index Value: 13 Compared to Pivot Value: 25
+Low Index: 2 Compared to High Index: 4 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 25 EXCHANGED With High Index Value: 13
+Low Index Value: 26 Compared to Pivot Value: 25
+High Index Value: 26 Compared to Pivot Value: 25
+High Index Value: 13 Compared to Pivot Value: 25
+Low Index: 3 Compared to High Index: 2
+Low Index: 2 Compared to High Index: 2
+Low Index: 3 Compared to High Index: 7
+Low Index Value: 26 Compared to Pivot Value: 26
+High Index Value: 35 Compared to Pivot Value: 26
+High Index Value: 33 Compared to Pivot Value: 26
+High Index Value: 29 Compared to Pivot Value: 26
+High Index Value: 25 Compared to Pivot Value: 26
+Low Index: 3 Compared to High Index: 4 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 26 EXCHANGED With High Index Value: 25
+Low Index Value: 26 Compared to Pivot Value: 26
+High Index Value: 25 Compared to Pivot Value: 26
+Low Index: 4 Compared to High Index: 3
+Low Index: 3 Compared to High Index: 3
+Low Index: 4 Compared to High Index: 7
+Low Index Value: 26 Compared to Pivot Value: 26
+High Index Value: 35 Compared to Pivot Value: 26
+High Index Value: 33 Compared to Pivot Value: 26
+High Index Value: 29 Compared to Pivot Value: 26
+High Index Value: 26 Compared to Pivot Value: 26
+Low Index: 4 Compared to High Index: 4
+Low Index: 4 Compared to High Index: 4
+Low Index: 5 Compared to High Index: 7
+Low Index Value: 29 Compared to Pivot Value: 29
+High Index Value: 35 Compared to Pivot Value: 29
+High Index Value: 33 Compared to Pivot Value: 29
+High Index Value: 29 Compared to Pivot Value: 29
+Low Index: 5 Compared to High Index: 5
+Low Index: 5 Compared to High Index: 5
+Low Index: 6 Compared to High Index: 7
+Low Index Value: 33 Compared to Pivot Value: 33
+High Index Value: 35 Compared to Pivot Value: 33
+High Index Value: 33 Compared to Pivot Value: 33
+Low Index: 6 Compared to High Index: 6
+Low Index: 6 Compared to High Index: 6
+Low Index: 7 Compared to High Index: 7
+Low Index: 8 Compared to High Index: 8
+Low Index: 9 Compared to High Index: 19
+Low Index Value: 93 Compared to Pivot Value: 93
+High Index Value: 41 Compared to Pivot Value: 93
+Low Index: 9 Compared to High Index: 19 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 93 EXCHANGED With High Index Value: 41
+Low Index Value: 51 Compared to Pivot Value: 93
+Low Index Value: 83 Compared to Pivot Value: 93
+Low Index Value: 81 Compared to Pivot Value: 93
+Low Index Value: 42 Compared to Pivot Value: 93
+Low Index Value: 71 Compared to Pivot Value: 93
+Low Index Value: 76 Compared to Pivot Value: 93
+Low Index Value: 73 Compared to Pivot Value: 93
+Low Index Value: 77 Compared to Pivot Value: 93
+Low Index Value: 72 Compared to Pivot Value: 93
+Low Index Value: 93 Compared to Pivot Value: 93
+High Index Value: 72 Compared to Pivot Value: 93
+Low Index: 19 Compared to High Index: 18
+Low Index: 9 Compared to High Index: 18
+Low Index Value: 41 Compared to Pivot Value: 41
+High Index Value: 72 Compared to Pivot Value: 41
+High Index Value: 77 Compared to Pivot Value: 41
+High Index Value: 73 Compared to Pivot Value: 41
+High Index Value: 76 Compared to Pivot Value: 41
+High Index Value: 71 Compared to Pivot Value: 41
+High Index Value: 42 Compared to Pivot Value: 41
+High Index Value: 81 Compared to Pivot Value: 41
+High Index Value: 83 Compared to Pivot Value: 41
+High Index Value: 51 Compared to Pivot Value: 41
+High Index Value: 41 Compared to Pivot Value: 41
+Low Index: 9 Compared to High Index: 9
+Low Index: 9 Compared to High Index: 9
+Low Index: 10 Compared to High Index: 18
+Low Index Value: 51 Compared to Pivot Value: 51
+High Index Value: 72 Compared to Pivot Value: 51
+High Index Value: 77 Compared to Pivot Value: 51
+High Index Value: 73 Compared to Pivot Value: 51
+High Index Value: 76 Compared to Pivot Value: 51
+High Index Value: 71 Compared to Pivot Value: 51
+High Index Value: 42 Compared to Pivot Value: 51
+Low Index: 10 Compared to High Index: 13 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 51 EXCHANGED With High Index Value: 42
+Low Index Value: 83 Compared to Pivot Value: 51
+High Index Value: 81 Compared to Pivot Value: 51
+High Index Value: 83 Compared to Pivot Value: 51
+High Index Value: 42 Compared to Pivot Value: 51
+Low Index: 11 Compared to High Index: 10
+Low Index: 10 Compared to High Index: 10
+Low Index: 11 Compared to High Index: 18
+Low Index Value: 83 Compared to Pivot Value: 83
+High Index Value: 72 Compared to Pivot Value: 83
+Low Index: 11 Compared to High Index: 18 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 83 EXCHANGED With High Index Value: 72
+Low Index Value: 81 Compared to Pivot Value: 83
+Low Index Value: 51 Compared to Pivot Value: 83
+Low Index Value: 71 Compared to Pivot Value: 83
+Low Index Value: 76 Compared to Pivot Value: 83
+Low Index Value: 73 Compared to Pivot Value: 83
+Low Index Value: 77 Compared to Pivot Value: 83
+Low Index Value: 83 Compared to Pivot Value: 83
+High Index Value: 77 Compared to Pivot Value: 83
+Low Index: 18 Compared to High Index: 17
+Low Index: 11 Compared to High Index: 17
+Low Index Value: 72 Compared to Pivot Value: 72
+High Index Value: 77 Compared to Pivot Value: 72
+High Index Value: 73 Compared to Pivot Value: 72
+High Index Value: 76 Compared to Pivot Value: 72
+High Index Value: 71 Compared to Pivot Value: 72
+Low Index: 11 Compared to High Index: 14 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 72 EXCHANGED With High Index Value: 71
+Low Index Value: 81 Compared to Pivot Value: 72
+High Index Value: 51 Compared to Pivot Value: 72
+Low Index: 12 Compared to High Index: 13 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 81 EXCHANGED With High Index Value: 51
+Low Index Value: 81 Compared to Pivot Value: 72
+High Index Value: 51 Compared to Pivot Value: 72
+Low Index: 13 Compared to High Index: 12
+Low Index: 11 Compared to High Index: 12
+Low Index Value: 71 Compared to Pivot Value: 71
+High Index Value: 51 Compared to Pivot Value: 71
+Low Index: 11 Compared to High Index: 12 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 71 EXCHANGED With High Index Value: 51
+Low Index Value: 71 Compared to Pivot Value: 71
+High Index Value: 51 Compared to Pivot Value: 71
+Low Index: 12 Compared to High Index: 11
+Low Index: 11 Compared to High Index: 11
+Low Index: 12 Compared to High Index: 12
+Low Index: 13 Compared to High Index: 17
+Low Index Value: 81 Compared to Pivot Value: 81
+High Index Value: 77 Compared to Pivot Value: 81
+Low Index: 13 Compared to High Index: 17 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 81 EXCHANGED With High Index Value: 77
+Low Index Value: 72 Compared to Pivot Value: 81
+Low Index Value: 76 Compared to Pivot Value: 81
+Low Index Value: 73 Compared to Pivot Value: 81
+Low Index Value: 81 Compared to Pivot Value: 81
+High Index Value: 73 Compared to Pivot Value: 81
+Low Index: 17 Compared to High Index: 16
+Low Index: 13 Compared to High Index: 16
+Low Index Value: 77 Compared to Pivot Value: 77
+High Index Value: 73 Compared to Pivot Value: 77
+Low Index: 13 Compared to High Index: 16 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 77 EXCHANGED With High Index Value: 73
+Low Index Value: 72 Compared to Pivot Value: 77
+Low Index Value: 76 Compared to Pivot Value: 77
+Low Index Value: 77 Compared to Pivot Value: 77
+High Index Value: 76 Compared to Pivot Value: 77
+Low Index: 16 Compared to High Index: 15
+Low Index: 13 Compared to High Index: 15
+Low Index Value: 73 Compared to Pivot Value: 73
+High Index Value: 76 Compared to Pivot Value: 73
+High Index Value: 72 Compared to Pivot Value: 73
+Low Index: 13 Compared to High Index: 14 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 73 EXCHANGED With High Index Value: 72
+Low Index Value: 73 Compared to Pivot Value: 73
+High Index Value: 72 Compared to Pivot Value: 73
+Low Index: 14 Compared to High Index: 13
+Low Index: 13 Compared to High Index: 13
+Low Index: 14 Compared to High Index: 15
+Low Index Value: 73 Compared to Pivot Value: 73
+High Index Value: 76 Compared to Pivot Value: 73
+High Index Value: 73 Compared to Pivot Value: 73
+Low Index: 14 Compared to High Index: 14
+Low Index: 14 Compared to High Index: 14
+Low Index: 15 Compared to High Index: 15
+Low Index: 16 Compared to High Index: 16
+Low Index: 17 Compared to High Index: 17
+Low Index: 18 Compared to High Index: 18
+Low Index: 19 Compared to High Index: 19
+Low Index: 20 Compared to High Index: 49
+Low Index Value: 185 Compared to Pivot Value: 185
+High Index Value: 135 Compared to Pivot Value: 185
+Low Index: 20 Compared to High Index: 49 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 185 EXCHANGED With High Index Value: 135
+Low Index Value: 200 Compared to Pivot Value: 185
+High Index Value: 104 Compared to Pivot Value: 185
+Low Index: 21 Compared to High Index: 48 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 200 EXCHANGED With High Index Value: 104
+Low Index Value: 124 Compared to Pivot Value: 185
+Low Index Value: 158 Compared to Pivot Value: 185
+Low Index Value: 127 Compared to Pivot Value: 185
+Low Index Value: 111 Compared to Pivot Value: 185
+Low Index Value: 160 Compared to Pivot Value: 185
+Low Index Value: 133 Compared to Pivot Value: 185
+Low Index Value: 178 Compared to Pivot Value: 185
+Low Index Value: 121 Compared to Pivot Value: 185
+Low Index Value: 150 Compared to Pivot Value: 185
+Low Index Value: 226 Compared to Pivot Value: 185
+High Index Value: 93 Compared to Pivot Value: 185
+Low Index: 31 Compared to High Index: 47 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 226 EXCHANGED With High Index Value: 93
+Low Index Value: 172 Compared to Pivot Value: 185
+Low Index Value: 157 Compared to Pivot Value: 185
+Low Index Value: 176 Compared to Pivot Value: 185
+Low Index Value: 175 Compared to Pivot Value: 185
+Low Index Value: 238 Compared to Pivot Value: 185
+High Index Value: 163 Compared to Pivot Value: 185
+Low Index: 36 Compared to High Index: 46 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 238 EXCHANGED With High Index Value: 163
+Low Index Value: 129 Compared to Pivot Value: 185
+Low Index Value: 167 Compared to Pivot Value: 185
+Low Index Value: 134 Compared to Pivot Value: 185
+Low Index Value: 104 Compared to Pivot Value: 185
+Low Index Value: 208 Compared to Pivot Value: 185
+High Index Value: 226 Compared to Pivot Value: 185
+High Index Value: 205 Compared to Pivot Value: 185
+High Index Value: 131 Compared to Pivot Value: 185
+Low Index: 41 Compared to High Index: 43 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 208 EXCHANGED With High Index Value: 131
+Low Index Value: 132 Compared to Pivot Value: 185
+Low Index Value: 208 Compared to Pivot Value: 185
+High Index Value: 132 Compared to Pivot Value: 185
+Low Index: 43 Compared to High Index: 42
+Low Index: 20 Compared to High Index: 42
+Low Index Value: 135 Compared to Pivot Value: 135
+High Index Value: 132 Compared to Pivot Value: 135
+Low Index: 20 Compared to High Index: 42 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 135 EXCHANGED With High Index Value: 132
+Low Index Value: 104 Compared to Pivot Value: 135
+Low Index Value: 124 Compared to Pivot Value: 135
+Low Index Value: 158 Compared to Pivot Value: 135
+High Index Value: 131 Compared to Pivot Value: 135
+Low Index: 23 Compared to High Index: 41 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 158 EXCHANGED With High Index Value: 131
+Low Index Value: 127 Compared to Pivot Value: 135
+Low Index Value: 111 Compared to Pivot Value: 135
+Low Index Value: 160 Compared to Pivot Value: 135
+High Index Value: 104 Compared to Pivot Value: 135
+Low Index: 26 Compared to High Index: 40 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 160 EXCHANGED With High Index Value: 104
+Low Index Value: 133 Compared to Pivot Value: 135
+Low Index Value: 178 Compared to Pivot Value: 135
+High Index Value: 134 Compared to Pivot Value: 135
+Low Index: 28 Compared to High Index: 39 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 178 EXCHANGED With High Index Value: 134
+Low Index Value: 121 Compared to Pivot Value: 135
+Low Index Value: 150 Compared to Pivot Value: 135
+High Index Value: 167 Compared to Pivot Value: 135
+High Index Value: 129 Compared to Pivot Value: 135
+Low Index: 30 Compared to High Index: 37 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 150 EXCHANGED With High Index Value: 129
+Low Index Value: 93 Compared to Pivot Value: 135
+Low Index Value: 172 Compared to Pivot Value: 135
+High Index Value: 163 Compared to Pivot Value: 135
+High Index Value: 175 Compared to Pivot Value: 135
+High Index Value: 176 Compared to Pivot Value: 135
+High Index Value: 157 Compared to Pivot Value: 135
+High Index Value: 172 Compared to Pivot Value: 135
+High Index Value: 93 Compared to Pivot Value: 135
+Low Index: 32 Compared to High Index: 31
+Low Index: 20 Compared to High Index: 31
+Low Index Value: 132 Compared to Pivot Value: 132
+High Index Value: 93 Compared to Pivot Value: 132
+Low Index: 20 Compared to High Index: 31 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 132 EXCHANGED With High Index Value: 93
+Low Index Value: 104 Compared to Pivot Value: 132
+Low Index Value: 124 Compared to Pivot Value: 132
+Low Index Value: 131 Compared to Pivot Value: 132
+Low Index Value: 127 Compared to Pivot Value: 132
+Low Index Value: 111 Compared to Pivot Value: 132
+Low Index Value: 104 Compared to Pivot Value: 132
+Low Index Value: 133 Compared to Pivot Value: 132
+High Index Value: 129 Compared to Pivot Value: 132
+Low Index: 27 Compared to High Index: 30 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 133 EXCHANGED With High Index Value: 129
+Low Index Value: 134 Compared to Pivot Value: 132
+High Index Value: 121 Compared to Pivot Value: 132
+Low Index: 28 Compared to High Index: 29 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 134 EXCHANGED With High Index Value: 121
+Low Index Value: 134 Compared to Pivot Value: 132
+High Index Value: 121 Compared to Pivot Value: 132
+Low Index: 29 Compared to High Index: 28
+Low Index: 20 Compared to High Index: 28
+Low Index Value: 93 Compared to Pivot Value: 93
+High Index Value: 121 Compared to Pivot Value: 93
+High Index Value: 129 Compared to Pivot Value: 93
+High Index Value: 104 Compared to Pivot Value: 93
+High Index Value: 111 Compared to Pivot Value: 93
+High Index Value: 127 Compared to Pivot Value: 93
+High Index Value: 131 Compared to Pivot Value: 93
+High Index Value: 124 Compared to Pivot Value: 93
+High Index Value: 104 Compared to Pivot Value: 93
+High Index Value: 93 Compared to Pivot Value: 93
+Low Index: 20 Compared to High Index: 20
+Low Index: 20 Compared to High Index: 20
+Low Index: 21 Compared to High Index: 28
+Low Index Value: 104 Compared to Pivot Value: 104
+High Index Value: 121 Compared to Pivot Value: 104
+High Index Value: 129 Compared to Pivot Value: 104
+High Index Value: 104 Compared to Pivot Value: 104
+Low Index: 21 Compared to High Index: 26 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 104 EXCHANGED With High Index Value: 104
+Low Index Value: 124 Compared to Pivot Value: 104
+High Index Value: 111 Compared to Pivot Value: 104
+High Index Value: 127 Compared to Pivot Value: 104
+High Index Value: 131 Compared to Pivot Value: 104
+High Index Value: 124 Compared to Pivot Value: 104
+High Index Value: 104 Compared to Pivot Value: 104
+Low Index: 22 Compared to High Index: 21
+Low Index: 21 Compared to High Index: 21
+Low Index: 22 Compared to High Index: 28
+Low Index Value: 124 Compared to Pivot Value: 124
+High Index Value: 121 Compared to Pivot Value: 124
+Low Index: 22 Compared to High Index: 28 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 124 EXCHANGED With High Index Value: 121
+Low Index Value: 131 Compared to Pivot Value: 124
+High Index Value: 129 Compared to Pivot Value: 124
+High Index Value: 104 Compared to Pivot Value: 124
+Low Index: 23 Compared to High Index: 26 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 131 EXCHANGED With High Index Value: 104
+Low Index Value: 127 Compared to Pivot Value: 124
+High Index Value: 111 Compared to Pivot Value: 124
+Low Index: 24 Compared to High Index: 25 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 127 EXCHANGED With High Index Value: 111
+Low Index Value: 127 Compared to Pivot Value: 124
+High Index Value: 111 Compared to Pivot Value: 124
+Low Index: 25 Compared to High Index: 24
+Low Index: 22 Compared to High Index: 24
+Low Index Value: 121 Compared to Pivot Value: 121
+High Index Value: 111 Compared to Pivot Value: 121
+Low Index: 22 Compared to High Index: 24 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 121 EXCHANGED With High Index Value: 111
+Low Index Value: 104 Compared to Pivot Value: 121
+Low Index Value: 121 Compared to Pivot Value: 121
+High Index Value: 104 Compared to Pivot Value: 121
+Low Index: 24 Compared to High Index: 23
+Low Index: 22 Compared to High Index: 23
+Low Index Value: 111 Compared to Pivot Value: 111
+High Index Value: 104 Compared to Pivot Value: 111
+Low Index: 22 Compared to High Index: 23 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 111 EXCHANGED With High Index Value: 104
+Low Index Value: 111 Compared to Pivot Value: 111
+High Index Value: 104 Compared to Pivot Value: 111
+Low Index: 23 Compared to High Index: 22
+Low Index: 22 Compared to High Index: 22
+Low Index: 23 Compared to High Index: 23
+Low Index: 24 Compared to High Index: 24
+Low Index: 25 Compared to High Index: 28
+Low Index Value: 127 Compared to Pivot Value: 127
+High Index Value: 124 Compared to Pivot Value: 127
+Low Index: 25 Compared to High Index: 28 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 127 EXCHANGED With High Index Value: 124
+Low Index Value: 131 Compared to Pivot Value: 127
+High Index Value: 129 Compared to Pivot Value: 127
+High Index Value: 131 Compared to Pivot Value: 127
+High Index Value: 124 Compared to Pivot Value: 127
+Low Index: 26 Compared to High Index: 25
+Low Index: 25 Compared to High Index: 25
+Low Index: 26 Compared to High Index: 28
+Low Index Value: 131 Compared to Pivot Value: 131
+High Index Value: 127 Compared to Pivot Value: 131
+Low Index: 26 Compared to High Index: 28 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 131 EXCHANGED With High Index Value: 127
+Low Index Value: 129 Compared to Pivot Value: 131
+Low Index Value: 131 Compared to Pivot Value: 131
+High Index Value: 129 Compared to Pivot Value: 131
+Low Index: 28 Compared to High Index: 27
+Low Index: 26 Compared to High Index: 27
+Low Index Value: 127 Compared to Pivot Value: 127
+High Index Value: 129 Compared to Pivot Value: 127
+High Index Value: 127 Compared to Pivot Value: 127
+Low Index: 26 Compared to High Index: 26
+Low Index: 26 Compared to High Index: 26
+Low Index: 27 Compared to High Index: 27
+Low Index: 28 Compared to High Index: 28
+Low Index: 29 Compared to High Index: 31
+Low Index Value: 134 Compared to Pivot Value: 134
+High Index Value: 132 Compared to Pivot Value: 134
+Low Index: 29 Compared to High Index: 31 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 134 EXCHANGED With High Index Value: 132
+Low Index Value: 133 Compared to Pivot Value: 134
+Low Index Value: 134 Compared to Pivot Value: 134
+High Index Value: 133 Compared to Pivot Value: 134
+Low Index: 31 Compared to High Index: 30
+Low Index: 29 Compared to High Index: 30
+Low Index Value: 132 Compared to Pivot Value: 132
+High Index Value: 133 Compared to Pivot Value: 132
+High Index Value: 132 Compared to Pivot Value: 132
+Low Index: 29 Compared to High Index: 29
+Low Index: 29 Compared to High Index: 29
+Low Index: 30 Compared to High Index: 30
+Low Index: 31 Compared to High Index: 31
+Low Index: 32 Compared to High Index: 42
+Low Index Value: 172 Compared to Pivot Value: 172
+High Index Value: 135 Compared to Pivot Value: 172
+Low Index: 32 Compared to High Index: 42 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 172 EXCHANGED With High Index Value: 135
+Low Index Value: 157 Compared to Pivot Value: 172
+Low Index Value: 176 Compared to Pivot Value: 172
+High Index Value: 158 Compared to Pivot Value: 172
+Low Index: 34 Compared to High Index: 41 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 176 EXCHANGED With High Index Value: 158
+Low Index Value: 175 Compared to Pivot Value: 172
+High Index Value: 160 Compared to Pivot Value: 172
+Low Index: 35 Compared to High Index: 40 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 175 EXCHANGED With High Index Value: 160
+Low Index Value: 163 Compared to Pivot Value: 172
+Low Index Value: 150 Compared to Pivot Value: 172
+Low Index Value: 167 Compared to Pivot Value: 172
+Low Index Value: 178 Compared to Pivot Value: 172
+High Index Value: 178 Compared to Pivot Value: 172
+High Index Value: 167 Compared to Pivot Value: 172
+Low Index: 39 Compared to High Index: 38
+Low Index: 32 Compared to High Index: 38
+Low Index Value: 135 Compared to Pivot Value: 135
+High Index Value: 167 Compared to Pivot Value: 135
+High Index Value: 150 Compared to Pivot Value: 135
+High Index Value: 163 Compared to Pivot Value: 135
+High Index Value: 160 Compared to Pivot Value: 135
+High Index Value: 158 Compared to Pivot Value: 135
+High Index Value: 157 Compared to Pivot Value: 135
+High Index Value: 135 Compared to Pivot Value: 135
+Low Index: 32 Compared to High Index: 32
+Low Index: 32 Compared to High Index: 32
+Low Index: 33 Compared to High Index: 38
+Low Index Value: 157 Compared to Pivot Value: 157
+High Index Value: 167 Compared to Pivot Value: 157
+High Index Value: 150 Compared to Pivot Value: 157
+Low Index: 33 Compared to High Index: 37 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 157 EXCHANGED With High Index Value: 150
+Low Index Value: 158 Compared to Pivot Value: 157
+High Index Value: 163 Compared to Pivot Value: 157
+High Index Value: 160 Compared to Pivot Value: 157
+High Index Value: 158 Compared to Pivot Value: 157
+High Index Value: 150 Compared to Pivot Value: 157
+Low Index: 34 Compared to High Index: 33
+Low Index: 33 Compared to High Index: 33
+Low Index: 34 Compared to High Index: 38
+Low Index Value: 158 Compared to Pivot Value: 158
+High Index Value: 167 Compared to Pivot Value: 158
+High Index Value: 157 Compared to Pivot Value: 158
+Low Index: 34 Compared to High Index: 37 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 158 EXCHANGED With High Index Value: 157
+Low Index Value: 160 Compared to Pivot Value: 158
+High Index Value: 163 Compared to Pivot Value: 158
+High Index Value: 160 Compared to Pivot Value: 158
+High Index Value: 157 Compared to Pivot Value: 158
+Low Index: 35 Compared to High Index: 34
+Low Index: 34 Compared to High Index: 34
+Low Index: 35 Compared to High Index: 38
+Low Index Value: 160 Compared to Pivot Value: 160
+High Index Value: 167 Compared to Pivot Value: 160
+High Index Value: 158 Compared to Pivot Value: 160
+Low Index: 35 Compared to High Index: 37 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 160 EXCHANGED With High Index Value: 158
+Low Index Value: 163 Compared to Pivot Value: 160
+High Index Value: 163 Compared to Pivot Value: 160
+High Index Value: 158 Compared to Pivot Value: 160
+Low Index: 36 Compared to High Index: 35
+Low Index: 35 Compared to High Index: 35
+Low Index: 36 Compared to High Index: 38
+Low Index Value: 163 Compared to Pivot Value: 163
+High Index Value: 167 Compared to Pivot Value: 163
+High Index Value: 160 Compared to Pivot Value: 163
+Low Index: 36 Compared to High Index: 37 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 163 EXCHANGED With High Index Value: 160
+Low Index Value: 163 Compared to Pivot Value: 163
+High Index Value: 160 Compared to Pivot Value: 163
+Low Index: 37 Compared to High Index: 36
+Low Index: 36 Compared to High Index: 36
+Low Index: 37 Compared to High Index: 38
+Low Index Value: 163 Compared to Pivot Value: 163
+High Index Value: 167 Compared to Pivot Value: 163
+High Index Value: 163 Compared to Pivot Value: 163
+Low Index: 37 Compared to High Index: 37
+Low Index: 37 Compared to High Index: 37
+Low Index: 38 Compared to High Index: 38
+Low Index: 39 Compared to High Index: 42
+Low Index Value: 178 Compared to Pivot Value: 178
+High Index Value: 172 Compared to Pivot Value: 178
+Low Index: 39 Compared to High Index: 42 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 178 EXCHANGED With High Index Value: 172
+Low Index Value: 175 Compared to Pivot Value: 178
+Low Index Value: 176 Compared to Pivot Value: 178
+Low Index Value: 178 Compared to Pivot Value: 178
+High Index Value: 176 Compared to Pivot Value: 178
+Low Index: 42 Compared to High Index: 41
+Low Index: 39 Compared to High Index: 41
+Low Index Value: 172 Compared to Pivot Value: 172
+High Index Value: 176 Compared to Pivot Value: 172
+High Index Value: 175 Compared to Pivot Value: 172
+High Index Value: 172 Compared to Pivot Value: 172
+Low Index: 39 Compared to High Index: 39
+Low Index: 39 Compared to High Index: 39
+Low Index: 40 Compared to High Index: 41
+Low Index Value: 175 Compared to Pivot Value: 175
+High Index Value: 176 Compared to Pivot Value: 175
+High Index Value: 175 Compared to Pivot Value: 175
+Low Index: 40 Compared to High Index: 40
+Low Index: 40 Compared to High Index: 40
+Low Index: 41 Compared to High Index: 41
+Low Index: 42 Compared to High Index: 42
+Low Index: 43 Compared to High Index: 49
+Low Index Value: 208 Compared to Pivot Value: 208
+High Index Value: 185 Compared to Pivot Value: 208
+Low Index: 43 Compared to High Index: 49 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 208 EXCHANGED With High Index Value: 185
+Low Index Value: 205 Compared to Pivot Value: 208
+Low Index Value: 226 Compared to Pivot Value: 208
+High Index Value: 200 Compared to Pivot Value: 208
+Low Index: 45 Compared to High Index: 48 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 226 EXCHANGED With High Index Value: 200
+Low Index Value: 238 Compared to Pivot Value: 208
+High Index Value: 226 Compared to Pivot Value: 208
+High Index Value: 238 Compared to Pivot Value: 208
+High Index Value: 200 Compared to Pivot Value: 208
+Low Index: 46 Compared to High Index: 45
+Low Index: 43 Compared to High Index: 45
+Low Index Value: 185 Compared to Pivot Value: 185
+High Index Value: 200 Compared to Pivot Value: 185
+High Index Value: 205 Compared to Pivot Value: 185
+High Index Value: 185 Compared to Pivot Value: 185
+Low Index: 43 Compared to High Index: 43
+Low Index: 43 Compared to High Index: 43
+Low Index: 44 Compared to High Index: 45
+Low Index Value: 205 Compared to Pivot Value: 205
+High Index Value: 200 Compared to Pivot Value: 205
+Low Index: 44 Compared to High Index: 45 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 205 EXCHANGED With High Index Value: 200
+Low Index Value: 205 Compared to Pivot Value: 205
+High Index Value: 200 Compared to Pivot Value: 205
+Low Index: 45 Compared to High Index: 44
+Low Index: 44 Compared to High Index: 44
+Low Index: 45 Compared to High Index: 45
+Low Index: 46 Compared to High Index: 49
+Low Index Value: 238 Compared to Pivot Value: 238
+High Index Value: 208 Compared to Pivot Value: 238
+Low Index: 46 Compared to High Index: 49 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 238 EXCHANGED With High Index Value: 208
+Low Index Value: 226 Compared to Pivot Value: 238
+Low Index Value: 226 Compared to Pivot Value: 238
+Low Index Value: 238 Compared to Pivot Value: 238
+High Index Value: 226 Compared to Pivot Value: 238
+Low Index: 49 Compared to High Index: 48
+Low Index: 46 Compared to High Index: 48
+Low Index Value: 208 Compared to Pivot Value: 208
+High Index Value: 226 Compared to Pivot Value: 208
+High Index Value: 226 Compared to Pivot Value: 208
+High Index Value: 208 Compared to Pivot Value: 208
+Low Index: 46 Compared to High Index: 46
+Low Index: 46 Compared to High Index: 46
+Low Index: 47 Compared to High Index: 48
+Low Index Value: 226 Compared to Pivot Value: 226
+High Index Value: 226 Compared to Pivot Value: 226
+Low Index: 47 Compared to High Index: 48 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 226 EXCHANGED With High Index Value: 226
+Low Index Value: 226 Compared to Pivot Value: 226
+High Index Value: 226 Compared to Pivot Value: 226
+Low Index: 48 Compared to High Index: 47
+Low Index: 47 Compared to High Index: 47
+Low Index: 48 Compared to High Index: 48
+Low Index: 49 Compared to High Index: 49
+
+Sorted List: 
+4
+9
+13
+25
+26
+29
+33
+35
+40
+41
+42
+51
+71
+72
+73
+76
+77
+81
+83
+93
+93
+104
+104
+111
+121
+124
+127
+129
+131
+132
+133
+134
+135
+150
+157
+158
+160
+163
+167
+172
+175
+176
+178
+185
+200
+205
+208
+226
+226
+238
+
+Comparison: 653	Exchanges: 67

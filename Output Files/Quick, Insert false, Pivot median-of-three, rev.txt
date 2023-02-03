@@ -1,0 +1,991 @@
+Merge Sort File Size 50, Insertion Sort: false using file:  rev50.txt
+
+Pivot: median-of-three
+
+UnSorted List: 
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+Low Index: 0 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 50 Compared to High Index Value: 1
+FOR PIVOT: Mid-Point Value: 26 Compared to High Index Value: 1
+FOR PIVOT: Mid-Point Value: 26 Compared to Low Index Value: 50 PIVOT = 26
+Low Index Value: 50 Compared to Pivot Value: 26
+High Index Value: 1 Compared to Pivot Value: 26
+Low Index: 0 Compared to High Index: 49 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 50 EXCHANGED With High Index Value: 1
+Low Index Value: 49 Compared to Pivot Value: 26
+High Index Value: 2 Compared to Pivot Value: 26
+Low Index: 1 Compared to High Index: 48 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 49 EXCHANGED With High Index Value: 2
+Low Index Value: 48 Compared to Pivot Value: 26
+High Index Value: 3 Compared to Pivot Value: 26
+Low Index: 2 Compared to High Index: 47 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 48 EXCHANGED With High Index Value: 3
+Low Index Value: 47 Compared to Pivot Value: 26
+High Index Value: 4 Compared to Pivot Value: 26
+Low Index: 3 Compared to High Index: 46 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 47 EXCHANGED With High Index Value: 4
+Low Index Value: 46 Compared to Pivot Value: 26
+High Index Value: 5 Compared to Pivot Value: 26
+Low Index: 4 Compared to High Index: 45 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 46 EXCHANGED With High Index Value: 5
+Low Index Value: 45 Compared to Pivot Value: 26
+High Index Value: 6 Compared to Pivot Value: 26
+Low Index: 5 Compared to High Index: 44 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 45 EXCHANGED With High Index Value: 6
+Low Index Value: 44 Compared to Pivot Value: 26
+High Index Value: 7 Compared to Pivot Value: 26
+Low Index: 6 Compared to High Index: 43 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 44 EXCHANGED With High Index Value: 7
+Low Index Value: 43 Compared to Pivot Value: 26
+High Index Value: 8 Compared to Pivot Value: 26
+Low Index: 7 Compared to High Index: 42 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 43 EXCHANGED With High Index Value: 8
+Low Index Value: 42 Compared to Pivot Value: 26
+High Index Value: 9 Compared to Pivot Value: 26
+Low Index: 8 Compared to High Index: 41 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 42 EXCHANGED With High Index Value: 9
+Low Index Value: 41 Compared to Pivot Value: 26
+High Index Value: 10 Compared to Pivot Value: 26
+Low Index: 9 Compared to High Index: 40 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 41 EXCHANGED With High Index Value: 10
+Low Index Value: 40 Compared to Pivot Value: 26
+High Index Value: 11 Compared to Pivot Value: 26
+Low Index: 10 Compared to High Index: 39 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 40 EXCHANGED With High Index Value: 11
+Low Index Value: 39 Compared to Pivot Value: 26
+High Index Value: 12 Compared to Pivot Value: 26
+Low Index: 11 Compared to High Index: 38 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 39 EXCHANGED With High Index Value: 12
+Low Index Value: 38 Compared to Pivot Value: 26
+High Index Value: 13 Compared to Pivot Value: 26
+Low Index: 12 Compared to High Index: 37 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 38 EXCHANGED With High Index Value: 13
+Low Index Value: 37 Compared to Pivot Value: 26
+High Index Value: 14 Compared to Pivot Value: 26
+Low Index: 13 Compared to High Index: 36 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 37 EXCHANGED With High Index Value: 14
+Low Index Value: 36 Compared to Pivot Value: 26
+High Index Value: 15 Compared to Pivot Value: 26
+Low Index: 14 Compared to High Index: 35 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 36 EXCHANGED With High Index Value: 15
+Low Index Value: 35 Compared to Pivot Value: 26
+High Index Value: 16 Compared to Pivot Value: 26
+Low Index: 15 Compared to High Index: 34 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 35 EXCHANGED With High Index Value: 16
+Low Index Value: 34 Compared to Pivot Value: 26
+High Index Value: 17 Compared to Pivot Value: 26
+Low Index: 16 Compared to High Index: 33 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 34 EXCHANGED With High Index Value: 17
+Low Index Value: 33 Compared to Pivot Value: 26
+High Index Value: 18 Compared to Pivot Value: 26
+Low Index: 17 Compared to High Index: 32 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 33 EXCHANGED With High Index Value: 18
+Low Index Value: 32 Compared to Pivot Value: 26
+High Index Value: 19 Compared to Pivot Value: 26
+Low Index: 18 Compared to High Index: 31 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 32 EXCHANGED With High Index Value: 19
+Low Index Value: 31 Compared to Pivot Value: 26
+High Index Value: 20 Compared to Pivot Value: 26
+Low Index: 19 Compared to High Index: 30 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 31 EXCHANGED With High Index Value: 20
+Low Index Value: 30 Compared to Pivot Value: 26
+High Index Value: 21 Compared to Pivot Value: 26
+Low Index: 20 Compared to High Index: 29 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 30 EXCHANGED With High Index Value: 21
+Low Index Value: 29 Compared to Pivot Value: 26
+High Index Value: 22 Compared to Pivot Value: 26
+Low Index: 21 Compared to High Index: 28 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 29 EXCHANGED With High Index Value: 22
+Low Index Value: 28 Compared to Pivot Value: 26
+High Index Value: 23 Compared to Pivot Value: 26
+Low Index: 22 Compared to High Index: 27 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 28 EXCHANGED With High Index Value: 23
+Low Index Value: 27 Compared to Pivot Value: 26
+High Index Value: 24 Compared to Pivot Value: 26
+Low Index: 23 Compared to High Index: 26 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 27 EXCHANGED With High Index Value: 24
+Low Index Value: 26 Compared to Pivot Value: 26
+High Index Value: 25 Compared to Pivot Value: 26
+Low Index: 24 Compared to High Index: 25 SWAP NEEDS TO TAKE PLACE!!
+Low Index Value: 26 EXCHANGED With High Index Value: 25
+Low Index Value: 26 Compared to Pivot Value: 26
+High Index Value: 25 Compared to Pivot Value: 26
+Low Index: 25 Compared to High Index: 24
+Low Index: 0 Compared to High Index: 24
+FOR PIVOT: Low Index Value: 1 Compared to High Index Value: 25
+FOR PIVOT: Mid-Point Value: 13 Compared to Low Index Value: 1
+FOR PIVOT: Mid-Point Value: 13 Compared to High Index Value: 25 PIVOT = 13
+Low Index Value: 1 Compared to Pivot Value: 13
+Low Index Value: 2 Compared to Pivot Value: 13
+Low Index Value: 3 Compared to Pivot Value: 13
+Low Index Value: 4 Compared to Pivot Value: 13
+Low Index Value: 5 Compared to Pivot Value: 13
+Low Index Value: 6 Compared to Pivot Value: 13
+Low Index Value: 7 Compared to Pivot Value: 13
+Low Index Value: 8 Compared to Pivot Value: 13
+Low Index Value: 9 Compared to Pivot Value: 13
+Low Index Value: 10 Compared to Pivot Value: 13
+Low Index Value: 11 Compared to Pivot Value: 13
+Low Index Value: 12 Compared to Pivot Value: 13
+Low Index Value: 13 Compared to Pivot Value: 13
+High Index Value: 25 Compared to Pivot Value: 13
+High Index Value: 24 Compared to Pivot Value: 13
+High Index Value: 23 Compared to Pivot Value: 13
+High Index Value: 22 Compared to Pivot Value: 13
+High Index Value: 21 Compared to Pivot Value: 13
+High Index Value: 20 Compared to Pivot Value: 13
+High Index Value: 19 Compared to Pivot Value: 13
+High Index Value: 18 Compared to Pivot Value: 13
+High Index Value: 17 Compared to Pivot Value: 13
+High Index Value: 16 Compared to Pivot Value: 13
+High Index Value: 15 Compared to Pivot Value: 13
+High Index Value: 14 Compared to Pivot Value: 13
+High Index Value: 13 Compared to Pivot Value: 13
+Low Index: 12 Compared to High Index: 12
+Low Index: 0 Compared to High Index: 12
+FOR PIVOT: Low Index Value: 1 Compared to High Index Value: 13
+FOR PIVOT: Mid-Point Value: 7 Compared to Low Index Value: 1
+FOR PIVOT: Mid-Point Value: 7 Compared to High Index Value: 13 PIVOT = 7
+Low Index Value: 1 Compared to Pivot Value: 7
+Low Index Value: 2 Compared to Pivot Value: 7
+Low Index Value: 3 Compared to Pivot Value: 7
+Low Index Value: 4 Compared to Pivot Value: 7
+Low Index Value: 5 Compared to Pivot Value: 7
+Low Index Value: 6 Compared to Pivot Value: 7
+Low Index Value: 7 Compared to Pivot Value: 7
+High Index Value: 13 Compared to Pivot Value: 7
+High Index Value: 12 Compared to Pivot Value: 7
+High Index Value: 11 Compared to Pivot Value: 7
+High Index Value: 10 Compared to Pivot Value: 7
+High Index Value: 9 Compared to Pivot Value: 7
+High Index Value: 8 Compared to Pivot Value: 7
+High Index Value: 7 Compared to Pivot Value: 7
+Low Index: 6 Compared to High Index: 6
+Low Index: 0 Compared to High Index: 6
+FOR PIVOT: Low Index Value: 1 Compared to High Index Value: 7
+FOR PIVOT: Mid-Point Value: 4 Compared to Low Index Value: 1
+FOR PIVOT: Mid-Point Value: 4 Compared to High Index Value: 7 PIVOT = 4
+Low Index Value: 1 Compared to Pivot Value: 4
+Low Index Value: 2 Compared to Pivot Value: 4
+Low Index Value: 3 Compared to Pivot Value: 4
+Low Index Value: 4 Compared to Pivot Value: 4
+High Index Value: 7 Compared to Pivot Value: 4
+High Index Value: 6 Compared to Pivot Value: 4
+High Index Value: 5 Compared to Pivot Value: 4
+High Index Value: 4 Compared to Pivot Value: 4
+Low Index: 3 Compared to High Index: 3
+Low Index: 0 Compared to High Index: 3
+FOR PIVOT: Low Index Value: 1 Compared to High Index Value: 4
+FOR PIVOT: Mid-Point Value: 2 Compared to Low Index Value: 1
+FOR PIVOT: Mid-Point Value: 2 Compared to High Index Value: 4 PIVOT = 2
+Low Index Value: 1 Compared to Pivot Value: 2
+Low Index Value: 2 Compared to Pivot Value: 2
+High Index Value: 4 Compared to Pivot Value: 2
+High Index Value: 3 Compared to Pivot Value: 2
+High Index Value: 2 Compared to Pivot Value: 2
+Low Index: 1 Compared to High Index: 1
+Low Index: 0 Compared to High Index: 1
+FOR PIVOT: Low Index Value: 1 Compared to High Index Value: 2
+FOR PIVOT: Mid-Point Value: 1 Compared to Low Index Value: 1
+FOR PIVOT: Mid-Point Value: 1 Compared to High Index Value: 2 PIVOT = 1
+Low Index Value: 1 Compared to Pivot Value: 1
+High Index Value: 2 Compared to Pivot Value: 1
+High Index Value: 1 Compared to Pivot Value: 1
+Low Index: 0 Compared to High Index: 0
+Low Index: 0 Compared to High Index: 0
+Low Index: 1 Compared to High Index: 1
+Low Index: 2 Compared to High Index: 3
+FOR PIVOT: Low Index Value: 3 Compared to High Index Value: 4
+FOR PIVOT: Mid-Point Value: 1 Compared to Low Index Value: 3 PIVOT = 3
+Low Index Value: 3 Compared to Pivot Value: 3
+High Index Value: 4 Compared to Pivot Value: 3
+High Index Value: 3 Compared to Pivot Value: 3
+Low Index: 2 Compared to High Index: 2
+Low Index: 2 Compared to High Index: 2
+Low Index: 3 Compared to High Index: 3
+Low Index: 4 Compared to High Index: 6
+FOR PIVOT: Low Index Value: 5 Compared to High Index Value: 7
+FOR PIVOT: Mid-Point Value: 2 Compared to Low Index Value: 5 PIVOT = 5
+Low Index Value: 5 Compared to Pivot Value: 5
+High Index Value: 7 Compared to Pivot Value: 5
+High Index Value: 6 Compared to Pivot Value: 5
+High Index Value: 5 Compared to Pivot Value: 5
+Low Index: 4 Compared to High Index: 4
+Low Index: 4 Compared to High Index: 4
+Low Index: 5 Compared to High Index: 6
+FOR PIVOT: Low Index Value: 6 Compared to High Index Value: 7
+FOR PIVOT: Mid-Point Value: 1 Compared to Low Index Value: 6 PIVOT = 6
+Low Index Value: 6 Compared to Pivot Value: 6
+High Index Value: 7 Compared to Pivot Value: 6
+High Index Value: 6 Compared to Pivot Value: 6
+Low Index: 5 Compared to High Index: 5
+Low Index: 5 Compared to High Index: 5
+Low Index: 6 Compared to High Index: 6
+Low Index: 7 Compared to High Index: 12
+FOR PIVOT: Low Index Value: 8 Compared to High Index Value: 13
+FOR PIVOT: Mid-Point Value: 3 Compared to Low Index Value: 8 PIVOT = 8
+Low Index Value: 8 Compared to Pivot Value: 8
+High Index Value: 13 Compared to Pivot Value: 8
+High Index Value: 12 Compared to Pivot Value: 8
+High Index Value: 11 Compared to Pivot Value: 8
+High Index Value: 10 Compared to Pivot Value: 8
+High Index Value: 9 Compared to Pivot Value: 8
+High Index Value: 8 Compared to Pivot Value: 8
+Low Index: 7 Compared to High Index: 7
+Low Index: 7 Compared to High Index: 7
+Low Index: 8 Compared to High Index: 12
+FOR PIVOT: Low Index Value: 9 Compared to High Index Value: 13
+FOR PIVOT: Mid-Point Value: 3 Compared to Low Index Value: 9 PIVOT = 9
+Low Index Value: 9 Compared to Pivot Value: 9
+High Index Value: 13 Compared to Pivot Value: 9
+High Index Value: 12 Compared to Pivot Value: 9
+High Index Value: 11 Compared to Pivot Value: 9
+High Index Value: 10 Compared to Pivot Value: 9
+High Index Value: 9 Compared to Pivot Value: 9
+Low Index: 8 Compared to High Index: 8
+Low Index: 8 Compared to High Index: 8
+Low Index: 9 Compared to High Index: 12
+FOR PIVOT: Low Index Value: 10 Compared to High Index Value: 13
+FOR PIVOT: Mid-Point Value: 2 Compared to Low Index Value: 10 PIVOT = 10
+Low Index Value: 10 Compared to Pivot Value: 10
+High Index Value: 13 Compared to Pivot Value: 10
+High Index Value: 12 Compared to Pivot Value: 10
+High Index Value: 11 Compared to Pivot Value: 10
+High Index Value: 10 Compared to Pivot Value: 10
+Low Index: 9 Compared to High Index: 9
+Low Index: 9 Compared to High Index: 9
+Low Index: 10 Compared to High Index: 12
+FOR PIVOT: Low Index Value: 11 Compared to High Index Value: 13
+FOR PIVOT: Mid-Point Value: 2 Compared to Low Index Value: 11 PIVOT = 11
+Low Index Value: 11 Compared to Pivot Value: 11
+High Index Value: 13 Compared to Pivot Value: 11
+High Index Value: 12 Compared to Pivot Value: 11
+High Index Value: 11 Compared to Pivot Value: 11
+Low Index: 10 Compared to High Index: 10
+Low Index: 10 Compared to High Index: 10
+Low Index: 11 Compared to High Index: 12
+FOR PIVOT: Low Index Value: 12 Compared to High Index Value: 13
+FOR PIVOT: Mid-Point Value: 1 Compared to Low Index Value: 12 PIVOT = 12
+Low Index Value: 12 Compared to Pivot Value: 12
+High Index Value: 13 Compared to Pivot Value: 12
+High Index Value: 12 Compared to Pivot Value: 12
+Low Index: 11 Compared to High Index: 11
+Low Index: 11 Compared to High Index: 11
+Low Index: 12 Compared to High Index: 12
+Low Index: 13 Compared to High Index: 24
+FOR PIVOT: Low Index Value: 14 Compared to High Index Value: 25
+FOR PIVOT: Mid-Point Value: 6 Compared to Low Index Value: 14 PIVOT = 14
+Low Index Value: 14 Compared to Pivot Value: 14
+High Index Value: 25 Compared to Pivot Value: 14
+High Index Value: 24 Compared to Pivot Value: 14
+High Index Value: 23 Compared to Pivot Value: 14
+High Index Value: 22 Compared to Pivot Value: 14
+High Index Value: 21 Compared to Pivot Value: 14
+High Index Value: 20 Compared to Pivot Value: 14
+High Index Value: 19 Compared to Pivot Value: 14
+High Index Value: 18 Compared to Pivot Value: 14
+High Index Value: 17 Compared to Pivot Value: 14
+High Index Value: 16 Compared to Pivot Value: 14
+High Index Value: 15 Compared to Pivot Value: 14
+High Index Value: 14 Compared to Pivot Value: 14
+Low Index: 13 Compared to High Index: 13
+Low Index: 13 Compared to High Index: 13
+Low Index: 14 Compared to High Index: 24
+FOR PIVOT: Low Index Value: 15 Compared to High Index Value: 25
+FOR PIVOT: Mid-Point Value: 6 Compared to Low Index Value: 15 PIVOT = 15
+Low Index Value: 15 Compared to Pivot Value: 15
+High Index Value: 25 Compared to Pivot Value: 15
+High Index Value: 24 Compared to Pivot Value: 15
+High Index Value: 23 Compared to Pivot Value: 15
+High Index Value: 22 Compared to Pivot Value: 15
+High Index Value: 21 Compared to Pivot Value: 15
+High Index Value: 20 Compared to Pivot Value: 15
+High Index Value: 19 Compared to Pivot Value: 15
+High Index Value: 18 Compared to Pivot Value: 15
+High Index Value: 17 Compared to Pivot Value: 15
+High Index Value: 16 Compared to Pivot Value: 15
+High Index Value: 15 Compared to Pivot Value: 15
+Low Index: 14 Compared to High Index: 14
+Low Index: 14 Compared to High Index: 14
+Low Index: 15 Compared to High Index: 24
+FOR PIVOT: Low Index Value: 16 Compared to High Index Value: 25
+FOR PIVOT: Mid-Point Value: 5 Compared to Low Index Value: 16 PIVOT = 16
+Low Index Value: 16 Compared to Pivot Value: 16
+High Index Value: 25 Compared to Pivot Value: 16
+High Index Value: 24 Compared to Pivot Value: 16
+High Index Value: 23 Compared to Pivot Value: 16
+High Index Value: 22 Compared to Pivot Value: 16
+High Index Value: 21 Compared to Pivot Value: 16
+High Index Value: 20 Compared to Pivot Value: 16
+High Index Value: 19 Compared to Pivot Value: 16
+High Index Value: 18 Compared to Pivot Value: 16
+High Index Value: 17 Compared to Pivot Value: 16
+High Index Value: 16 Compared to Pivot Value: 16
+Low Index: 15 Compared to High Index: 15
+Low Index: 15 Compared to High Index: 15
+Low Index: 16 Compared to High Index: 24
+FOR PIVOT: Low Index Value: 17 Compared to High Index Value: 25
+FOR PIVOT: Mid-Point Value: 5 Compared to Low Index Value: 17 PIVOT = 17
+Low Index Value: 17 Compared to Pivot Value: 17
+High Index Value: 25 Compared to Pivot Value: 17
+High Index Value: 24 Compared to Pivot Value: 17
+High Index Value: 23 Compared to Pivot Value: 17
+High Index Value: 22 Compared to Pivot Value: 17
+High Index Value: 21 Compared to Pivot Value: 17
+High Index Value: 20 Compared to Pivot Value: 17
+High Index Value: 19 Compared to Pivot Value: 17
+High Index Value: 18 Compared to Pivot Value: 17
+High Index Value: 17 Compared to Pivot Value: 17
+Low Index: 16 Compared to High Index: 16
+Low Index: 16 Compared to High Index: 16
+Low Index: 17 Compared to High Index: 24
+FOR PIVOT: Low Index Value: 18 Compared to High Index Value: 25
+FOR PIVOT: Mid-Point Value: 4 Compared to Low Index Value: 18 PIVOT = 18
+Low Index Value: 18 Compared to Pivot Value: 18
+High Index Value: 25 Compared to Pivot Value: 18
+High Index Value: 24 Compared to Pivot Value: 18
+High Index Value: 23 Compared to Pivot Value: 18
+High Index Value: 22 Compared to Pivot Value: 18
+High Index Value: 21 Compared to Pivot Value: 18
+High Index Value: 20 Compared to Pivot Value: 18
+High Index Value: 19 Compared to Pivot Value: 18
+High Index Value: 18 Compared to Pivot Value: 18
+Low Index: 17 Compared to High Index: 17
+Low Index: 17 Compared to High Index: 17
+Low Index: 18 Compared to High Index: 24
+FOR PIVOT: Low Index Value: 19 Compared to High Index Value: 25
+FOR PIVOT: Mid-Point Value: 4 Compared to Low Index Value: 19 PIVOT = 19
+Low Index Value: 19 Compared to Pivot Value: 19
+High Index Value: 25 Compared to Pivot Value: 19
+High Index Value: 24 Compared to Pivot Value: 19
+High Index Value: 23 Compared to Pivot Value: 19
+High Index Value: 22 Compared to Pivot Value: 19
+High Index Value: 21 Compared to Pivot Value: 19
+High Index Value: 20 Compared to Pivot Value: 19
+High Index Value: 19 Compared to Pivot Value: 19
+Low Index: 18 Compared to High Index: 18
+Low Index: 18 Compared to High Index: 18
+Low Index: 19 Compared to High Index: 24
+FOR PIVOT: Low Index Value: 20 Compared to High Index Value: 25
+FOR PIVOT: Mid-Point Value: 3 Compared to Low Index Value: 20 PIVOT = 20
+Low Index Value: 20 Compared to Pivot Value: 20
+High Index Value: 25 Compared to Pivot Value: 20
+High Index Value: 24 Compared to Pivot Value: 20
+High Index Value: 23 Compared to Pivot Value: 20
+High Index Value: 22 Compared to Pivot Value: 20
+High Index Value: 21 Compared to Pivot Value: 20
+High Index Value: 20 Compared to Pivot Value: 20
+Low Index: 19 Compared to High Index: 19
+Low Index: 19 Compared to High Index: 19
+Low Index: 20 Compared to High Index: 24
+FOR PIVOT: Low Index Value: 21 Compared to High Index Value: 25
+FOR PIVOT: Mid-Point Value: 3 Compared to Low Index Value: 21 PIVOT = 21
+Low Index Value: 21 Compared to Pivot Value: 21
+High Index Value: 25 Compared to Pivot Value: 21
+High Index Value: 24 Compared to Pivot Value: 21
+High Index Value: 23 Compared to Pivot Value: 21
+High Index Value: 22 Compared to Pivot Value: 21
+High Index Value: 21 Compared to Pivot Value: 21
+Low Index: 20 Compared to High Index: 20
+Low Index: 20 Compared to High Index: 20
+Low Index: 21 Compared to High Index: 24
+FOR PIVOT: Low Index Value: 22 Compared to High Index Value: 25
+FOR PIVOT: Mid-Point Value: 2 Compared to Low Index Value: 22 PIVOT = 22
+Low Index Value: 22 Compared to Pivot Value: 22
+High Index Value: 25 Compared to Pivot Value: 22
+High Index Value: 24 Compared to Pivot Value: 22
+High Index Value: 23 Compared to Pivot Value: 22
+High Index Value: 22 Compared to Pivot Value: 22
+Low Index: 21 Compared to High Index: 21
+Low Index: 21 Compared to High Index: 21
+Low Index: 22 Compared to High Index: 24
+FOR PIVOT: Low Index Value: 23 Compared to High Index Value: 25
+FOR PIVOT: Mid-Point Value: 2 Compared to Low Index Value: 23 PIVOT = 23
+Low Index Value: 23 Compared to Pivot Value: 23
+High Index Value: 25 Compared to Pivot Value: 23
+High Index Value: 24 Compared to Pivot Value: 23
+High Index Value: 23 Compared to Pivot Value: 23
+Low Index: 22 Compared to High Index: 22
+Low Index: 22 Compared to High Index: 22
+Low Index: 23 Compared to High Index: 24
+FOR PIVOT: Low Index Value: 24 Compared to High Index Value: 25
+FOR PIVOT: Mid-Point Value: 1 Compared to Low Index Value: 24 PIVOT = 24
+Low Index Value: 24 Compared to Pivot Value: 24
+High Index Value: 25 Compared to Pivot Value: 24
+High Index Value: 24 Compared to Pivot Value: 24
+Low Index: 23 Compared to High Index: 23
+Low Index: 23 Compared to High Index: 23
+Low Index: 24 Compared to High Index: 24
+Low Index: 25 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 26 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 13 Compared to Low Index Value: 26 PIVOT = 26
+Low Index Value: 26 Compared to Pivot Value: 26
+High Index Value: 50 Compared to Pivot Value: 26
+High Index Value: 49 Compared to Pivot Value: 26
+High Index Value: 48 Compared to Pivot Value: 26
+High Index Value: 47 Compared to Pivot Value: 26
+High Index Value: 46 Compared to Pivot Value: 26
+High Index Value: 45 Compared to Pivot Value: 26
+High Index Value: 44 Compared to Pivot Value: 26
+High Index Value: 43 Compared to Pivot Value: 26
+High Index Value: 42 Compared to Pivot Value: 26
+High Index Value: 41 Compared to Pivot Value: 26
+High Index Value: 40 Compared to Pivot Value: 26
+High Index Value: 39 Compared to Pivot Value: 26
+High Index Value: 38 Compared to Pivot Value: 26
+High Index Value: 37 Compared to Pivot Value: 26
+High Index Value: 36 Compared to Pivot Value: 26
+High Index Value: 35 Compared to Pivot Value: 26
+High Index Value: 34 Compared to Pivot Value: 26
+High Index Value: 33 Compared to Pivot Value: 26
+High Index Value: 32 Compared to Pivot Value: 26
+High Index Value: 31 Compared to Pivot Value: 26
+High Index Value: 30 Compared to Pivot Value: 26
+High Index Value: 29 Compared to Pivot Value: 26
+High Index Value: 28 Compared to Pivot Value: 26
+High Index Value: 27 Compared to Pivot Value: 26
+High Index Value: 26 Compared to Pivot Value: 26
+Low Index: 25 Compared to High Index: 25
+Low Index: 25 Compared to High Index: 25
+Low Index: 26 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 27 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 12 Compared to Low Index Value: 27 PIVOT = 27
+Low Index Value: 27 Compared to Pivot Value: 27
+High Index Value: 50 Compared to Pivot Value: 27
+High Index Value: 49 Compared to Pivot Value: 27
+High Index Value: 48 Compared to Pivot Value: 27
+High Index Value: 47 Compared to Pivot Value: 27
+High Index Value: 46 Compared to Pivot Value: 27
+High Index Value: 45 Compared to Pivot Value: 27
+High Index Value: 44 Compared to Pivot Value: 27
+High Index Value: 43 Compared to Pivot Value: 27
+High Index Value: 42 Compared to Pivot Value: 27
+High Index Value: 41 Compared to Pivot Value: 27
+High Index Value: 40 Compared to Pivot Value: 27
+High Index Value: 39 Compared to Pivot Value: 27
+High Index Value: 38 Compared to Pivot Value: 27
+High Index Value: 37 Compared to Pivot Value: 27
+High Index Value: 36 Compared to Pivot Value: 27
+High Index Value: 35 Compared to Pivot Value: 27
+High Index Value: 34 Compared to Pivot Value: 27
+High Index Value: 33 Compared to Pivot Value: 27
+High Index Value: 32 Compared to Pivot Value: 27
+High Index Value: 31 Compared to Pivot Value: 27
+High Index Value: 30 Compared to Pivot Value: 27
+High Index Value: 29 Compared to Pivot Value: 27
+High Index Value: 28 Compared to Pivot Value: 27
+High Index Value: 27 Compared to Pivot Value: 27
+Low Index: 26 Compared to High Index: 26
+Low Index: 26 Compared to High Index: 26
+Low Index: 27 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 28 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 12 Compared to Low Index Value: 28 PIVOT = 28
+Low Index Value: 28 Compared to Pivot Value: 28
+High Index Value: 50 Compared to Pivot Value: 28
+High Index Value: 49 Compared to Pivot Value: 28
+High Index Value: 48 Compared to Pivot Value: 28
+High Index Value: 47 Compared to Pivot Value: 28
+High Index Value: 46 Compared to Pivot Value: 28
+High Index Value: 45 Compared to Pivot Value: 28
+High Index Value: 44 Compared to Pivot Value: 28
+High Index Value: 43 Compared to Pivot Value: 28
+High Index Value: 42 Compared to Pivot Value: 28
+High Index Value: 41 Compared to Pivot Value: 28
+High Index Value: 40 Compared to Pivot Value: 28
+High Index Value: 39 Compared to Pivot Value: 28
+High Index Value: 38 Compared to Pivot Value: 28
+High Index Value: 37 Compared to Pivot Value: 28
+High Index Value: 36 Compared to Pivot Value: 28
+High Index Value: 35 Compared to Pivot Value: 28
+High Index Value: 34 Compared to Pivot Value: 28
+High Index Value: 33 Compared to Pivot Value: 28
+High Index Value: 32 Compared to Pivot Value: 28
+High Index Value: 31 Compared to Pivot Value: 28
+High Index Value: 30 Compared to Pivot Value: 28
+High Index Value: 29 Compared to Pivot Value: 28
+High Index Value: 28 Compared to Pivot Value: 28
+Low Index: 27 Compared to High Index: 27
+Low Index: 27 Compared to High Index: 27
+Low Index: 28 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 29 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 11 Compared to Low Index Value: 29 PIVOT = 29
+Low Index Value: 29 Compared to Pivot Value: 29
+High Index Value: 50 Compared to Pivot Value: 29
+High Index Value: 49 Compared to Pivot Value: 29
+High Index Value: 48 Compared to Pivot Value: 29
+High Index Value: 47 Compared to Pivot Value: 29
+High Index Value: 46 Compared to Pivot Value: 29
+High Index Value: 45 Compared to Pivot Value: 29
+High Index Value: 44 Compared to Pivot Value: 29
+High Index Value: 43 Compared to Pivot Value: 29
+High Index Value: 42 Compared to Pivot Value: 29
+High Index Value: 41 Compared to Pivot Value: 29
+High Index Value: 40 Compared to Pivot Value: 29
+High Index Value: 39 Compared to Pivot Value: 29
+High Index Value: 38 Compared to Pivot Value: 29
+High Index Value: 37 Compared to Pivot Value: 29
+High Index Value: 36 Compared to Pivot Value: 29
+High Index Value: 35 Compared to Pivot Value: 29
+High Index Value: 34 Compared to Pivot Value: 29
+High Index Value: 33 Compared to Pivot Value: 29
+High Index Value: 32 Compared to Pivot Value: 29
+High Index Value: 31 Compared to Pivot Value: 29
+High Index Value: 30 Compared to Pivot Value: 29
+High Index Value: 29 Compared to Pivot Value: 29
+Low Index: 28 Compared to High Index: 28
+Low Index: 28 Compared to High Index: 28
+Low Index: 29 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 30 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 11 Compared to Low Index Value: 30 PIVOT = 30
+Low Index Value: 30 Compared to Pivot Value: 30
+High Index Value: 50 Compared to Pivot Value: 30
+High Index Value: 49 Compared to Pivot Value: 30
+High Index Value: 48 Compared to Pivot Value: 30
+High Index Value: 47 Compared to Pivot Value: 30
+High Index Value: 46 Compared to Pivot Value: 30
+High Index Value: 45 Compared to Pivot Value: 30
+High Index Value: 44 Compared to Pivot Value: 30
+High Index Value: 43 Compared to Pivot Value: 30
+High Index Value: 42 Compared to Pivot Value: 30
+High Index Value: 41 Compared to Pivot Value: 30
+High Index Value: 40 Compared to Pivot Value: 30
+High Index Value: 39 Compared to Pivot Value: 30
+High Index Value: 38 Compared to Pivot Value: 30
+High Index Value: 37 Compared to Pivot Value: 30
+High Index Value: 36 Compared to Pivot Value: 30
+High Index Value: 35 Compared to Pivot Value: 30
+High Index Value: 34 Compared to Pivot Value: 30
+High Index Value: 33 Compared to Pivot Value: 30
+High Index Value: 32 Compared to Pivot Value: 30
+High Index Value: 31 Compared to Pivot Value: 30
+High Index Value: 30 Compared to Pivot Value: 30
+Low Index: 29 Compared to High Index: 29
+Low Index: 29 Compared to High Index: 29
+Low Index: 30 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 31 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 10 Compared to Low Index Value: 31 PIVOT = 31
+Low Index Value: 31 Compared to Pivot Value: 31
+High Index Value: 50 Compared to Pivot Value: 31
+High Index Value: 49 Compared to Pivot Value: 31
+High Index Value: 48 Compared to Pivot Value: 31
+High Index Value: 47 Compared to Pivot Value: 31
+High Index Value: 46 Compared to Pivot Value: 31
+High Index Value: 45 Compared to Pivot Value: 31
+High Index Value: 44 Compared to Pivot Value: 31
+High Index Value: 43 Compared to Pivot Value: 31
+High Index Value: 42 Compared to Pivot Value: 31
+High Index Value: 41 Compared to Pivot Value: 31
+High Index Value: 40 Compared to Pivot Value: 31
+High Index Value: 39 Compared to Pivot Value: 31
+High Index Value: 38 Compared to Pivot Value: 31
+High Index Value: 37 Compared to Pivot Value: 31
+High Index Value: 36 Compared to Pivot Value: 31
+High Index Value: 35 Compared to Pivot Value: 31
+High Index Value: 34 Compared to Pivot Value: 31
+High Index Value: 33 Compared to Pivot Value: 31
+High Index Value: 32 Compared to Pivot Value: 31
+High Index Value: 31 Compared to Pivot Value: 31
+Low Index: 30 Compared to High Index: 30
+Low Index: 30 Compared to High Index: 30
+Low Index: 31 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 32 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 10 Compared to Low Index Value: 32 PIVOT = 32
+Low Index Value: 32 Compared to Pivot Value: 32
+High Index Value: 50 Compared to Pivot Value: 32
+High Index Value: 49 Compared to Pivot Value: 32
+High Index Value: 48 Compared to Pivot Value: 32
+High Index Value: 47 Compared to Pivot Value: 32
+High Index Value: 46 Compared to Pivot Value: 32
+High Index Value: 45 Compared to Pivot Value: 32
+High Index Value: 44 Compared to Pivot Value: 32
+High Index Value: 43 Compared to Pivot Value: 32
+High Index Value: 42 Compared to Pivot Value: 32
+High Index Value: 41 Compared to Pivot Value: 32
+High Index Value: 40 Compared to Pivot Value: 32
+High Index Value: 39 Compared to Pivot Value: 32
+High Index Value: 38 Compared to Pivot Value: 32
+High Index Value: 37 Compared to Pivot Value: 32
+High Index Value: 36 Compared to Pivot Value: 32
+High Index Value: 35 Compared to Pivot Value: 32
+High Index Value: 34 Compared to Pivot Value: 32
+High Index Value: 33 Compared to Pivot Value: 32
+High Index Value: 32 Compared to Pivot Value: 32
+Low Index: 31 Compared to High Index: 31
+Low Index: 31 Compared to High Index: 31
+Low Index: 32 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 33 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 9 Compared to Low Index Value: 33 PIVOT = 33
+Low Index Value: 33 Compared to Pivot Value: 33
+High Index Value: 50 Compared to Pivot Value: 33
+High Index Value: 49 Compared to Pivot Value: 33
+High Index Value: 48 Compared to Pivot Value: 33
+High Index Value: 47 Compared to Pivot Value: 33
+High Index Value: 46 Compared to Pivot Value: 33
+High Index Value: 45 Compared to Pivot Value: 33
+High Index Value: 44 Compared to Pivot Value: 33
+High Index Value: 43 Compared to Pivot Value: 33
+High Index Value: 42 Compared to Pivot Value: 33
+High Index Value: 41 Compared to Pivot Value: 33
+High Index Value: 40 Compared to Pivot Value: 33
+High Index Value: 39 Compared to Pivot Value: 33
+High Index Value: 38 Compared to Pivot Value: 33
+High Index Value: 37 Compared to Pivot Value: 33
+High Index Value: 36 Compared to Pivot Value: 33
+High Index Value: 35 Compared to Pivot Value: 33
+High Index Value: 34 Compared to Pivot Value: 33
+High Index Value: 33 Compared to Pivot Value: 33
+Low Index: 32 Compared to High Index: 32
+Low Index: 32 Compared to High Index: 32
+Low Index: 33 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 34 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 9 Compared to Low Index Value: 34 PIVOT = 34
+Low Index Value: 34 Compared to Pivot Value: 34
+High Index Value: 50 Compared to Pivot Value: 34
+High Index Value: 49 Compared to Pivot Value: 34
+High Index Value: 48 Compared to Pivot Value: 34
+High Index Value: 47 Compared to Pivot Value: 34
+High Index Value: 46 Compared to Pivot Value: 34
+High Index Value: 45 Compared to Pivot Value: 34
+High Index Value: 44 Compared to Pivot Value: 34
+High Index Value: 43 Compared to Pivot Value: 34
+High Index Value: 42 Compared to Pivot Value: 34
+High Index Value: 41 Compared to Pivot Value: 34
+High Index Value: 40 Compared to Pivot Value: 34
+High Index Value: 39 Compared to Pivot Value: 34
+High Index Value: 38 Compared to Pivot Value: 34
+High Index Value: 37 Compared to Pivot Value: 34
+High Index Value: 36 Compared to Pivot Value: 34
+High Index Value: 35 Compared to Pivot Value: 34
+High Index Value: 34 Compared to Pivot Value: 34
+Low Index: 33 Compared to High Index: 33
+Low Index: 33 Compared to High Index: 33
+Low Index: 34 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 35 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 8 Compared to Low Index Value: 35 PIVOT = 35
+Low Index Value: 35 Compared to Pivot Value: 35
+High Index Value: 50 Compared to Pivot Value: 35
+High Index Value: 49 Compared to Pivot Value: 35
+High Index Value: 48 Compared to Pivot Value: 35
+High Index Value: 47 Compared to Pivot Value: 35
+High Index Value: 46 Compared to Pivot Value: 35
+High Index Value: 45 Compared to Pivot Value: 35
+High Index Value: 44 Compared to Pivot Value: 35
+High Index Value: 43 Compared to Pivot Value: 35
+High Index Value: 42 Compared to Pivot Value: 35
+High Index Value: 41 Compared to Pivot Value: 35
+High Index Value: 40 Compared to Pivot Value: 35
+High Index Value: 39 Compared to Pivot Value: 35
+High Index Value: 38 Compared to Pivot Value: 35
+High Index Value: 37 Compared to Pivot Value: 35
+High Index Value: 36 Compared to Pivot Value: 35
+High Index Value: 35 Compared to Pivot Value: 35
+Low Index: 34 Compared to High Index: 34
+Low Index: 34 Compared to High Index: 34
+Low Index: 35 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 36 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 8 Compared to Low Index Value: 36 PIVOT = 36
+Low Index Value: 36 Compared to Pivot Value: 36
+High Index Value: 50 Compared to Pivot Value: 36
+High Index Value: 49 Compared to Pivot Value: 36
+High Index Value: 48 Compared to Pivot Value: 36
+High Index Value: 47 Compared to Pivot Value: 36
+High Index Value: 46 Compared to Pivot Value: 36
+High Index Value: 45 Compared to Pivot Value: 36
+High Index Value: 44 Compared to Pivot Value: 36
+High Index Value: 43 Compared to Pivot Value: 36
+High Index Value: 42 Compared to Pivot Value: 36
+High Index Value: 41 Compared to Pivot Value: 36
+High Index Value: 40 Compared to Pivot Value: 36
+High Index Value: 39 Compared to Pivot Value: 36
+High Index Value: 38 Compared to Pivot Value: 36
+High Index Value: 37 Compared to Pivot Value: 36
+High Index Value: 36 Compared to Pivot Value: 36
+Low Index: 35 Compared to High Index: 35
+Low Index: 35 Compared to High Index: 35
+Low Index: 36 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 37 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 7 Compared to Low Index Value: 37 PIVOT = 37
+Low Index Value: 37 Compared to Pivot Value: 37
+High Index Value: 50 Compared to Pivot Value: 37
+High Index Value: 49 Compared to Pivot Value: 37
+High Index Value: 48 Compared to Pivot Value: 37
+High Index Value: 47 Compared to Pivot Value: 37
+High Index Value: 46 Compared to Pivot Value: 37
+High Index Value: 45 Compared to Pivot Value: 37
+High Index Value: 44 Compared to Pivot Value: 37
+High Index Value: 43 Compared to Pivot Value: 37
+High Index Value: 42 Compared to Pivot Value: 37
+High Index Value: 41 Compared to Pivot Value: 37
+High Index Value: 40 Compared to Pivot Value: 37
+High Index Value: 39 Compared to Pivot Value: 37
+High Index Value: 38 Compared to Pivot Value: 37
+High Index Value: 37 Compared to Pivot Value: 37
+Low Index: 36 Compared to High Index: 36
+Low Index: 36 Compared to High Index: 36
+Low Index: 37 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 38 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 7 Compared to Low Index Value: 38 PIVOT = 38
+Low Index Value: 38 Compared to Pivot Value: 38
+High Index Value: 50 Compared to Pivot Value: 38
+High Index Value: 49 Compared to Pivot Value: 38
+High Index Value: 48 Compared to Pivot Value: 38
+High Index Value: 47 Compared to Pivot Value: 38
+High Index Value: 46 Compared to Pivot Value: 38
+High Index Value: 45 Compared to Pivot Value: 38
+High Index Value: 44 Compared to Pivot Value: 38
+High Index Value: 43 Compared to Pivot Value: 38
+High Index Value: 42 Compared to Pivot Value: 38
+High Index Value: 41 Compared to Pivot Value: 38
+High Index Value: 40 Compared to Pivot Value: 38
+High Index Value: 39 Compared to Pivot Value: 38
+High Index Value: 38 Compared to Pivot Value: 38
+Low Index: 37 Compared to High Index: 37
+Low Index: 37 Compared to High Index: 37
+Low Index: 38 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 39 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 6 Compared to Low Index Value: 39 PIVOT = 39
+Low Index Value: 39 Compared to Pivot Value: 39
+High Index Value: 50 Compared to Pivot Value: 39
+High Index Value: 49 Compared to Pivot Value: 39
+High Index Value: 48 Compared to Pivot Value: 39
+High Index Value: 47 Compared to Pivot Value: 39
+High Index Value: 46 Compared to Pivot Value: 39
+High Index Value: 45 Compared to Pivot Value: 39
+High Index Value: 44 Compared to Pivot Value: 39
+High Index Value: 43 Compared to Pivot Value: 39
+High Index Value: 42 Compared to Pivot Value: 39
+High Index Value: 41 Compared to Pivot Value: 39
+High Index Value: 40 Compared to Pivot Value: 39
+High Index Value: 39 Compared to Pivot Value: 39
+Low Index: 38 Compared to High Index: 38
+Low Index: 38 Compared to High Index: 38
+Low Index: 39 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 40 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 6 Compared to Low Index Value: 40 PIVOT = 40
+Low Index Value: 40 Compared to Pivot Value: 40
+High Index Value: 50 Compared to Pivot Value: 40
+High Index Value: 49 Compared to Pivot Value: 40
+High Index Value: 48 Compared to Pivot Value: 40
+High Index Value: 47 Compared to Pivot Value: 40
+High Index Value: 46 Compared to Pivot Value: 40
+High Index Value: 45 Compared to Pivot Value: 40
+High Index Value: 44 Compared to Pivot Value: 40
+High Index Value: 43 Compared to Pivot Value: 40
+High Index Value: 42 Compared to Pivot Value: 40
+High Index Value: 41 Compared to Pivot Value: 40
+High Index Value: 40 Compared to Pivot Value: 40
+Low Index: 39 Compared to High Index: 39
+Low Index: 39 Compared to High Index: 39
+Low Index: 40 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 41 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 5 Compared to Low Index Value: 41 PIVOT = 41
+Low Index Value: 41 Compared to Pivot Value: 41
+High Index Value: 50 Compared to Pivot Value: 41
+High Index Value: 49 Compared to Pivot Value: 41
+High Index Value: 48 Compared to Pivot Value: 41
+High Index Value: 47 Compared to Pivot Value: 41
+High Index Value: 46 Compared to Pivot Value: 41
+High Index Value: 45 Compared to Pivot Value: 41
+High Index Value: 44 Compared to Pivot Value: 41
+High Index Value: 43 Compared to Pivot Value: 41
+High Index Value: 42 Compared to Pivot Value: 41
+High Index Value: 41 Compared to Pivot Value: 41
+Low Index: 40 Compared to High Index: 40
+Low Index: 40 Compared to High Index: 40
+Low Index: 41 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 42 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 5 Compared to Low Index Value: 42 PIVOT = 42
+Low Index Value: 42 Compared to Pivot Value: 42
+High Index Value: 50 Compared to Pivot Value: 42
+High Index Value: 49 Compared to Pivot Value: 42
+High Index Value: 48 Compared to Pivot Value: 42
+High Index Value: 47 Compared to Pivot Value: 42
+High Index Value: 46 Compared to Pivot Value: 42
+High Index Value: 45 Compared to Pivot Value: 42
+High Index Value: 44 Compared to Pivot Value: 42
+High Index Value: 43 Compared to Pivot Value: 42
+High Index Value: 42 Compared to Pivot Value: 42
+Low Index: 41 Compared to High Index: 41
+Low Index: 41 Compared to High Index: 41
+Low Index: 42 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 43 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 4 Compared to Low Index Value: 43 PIVOT = 43
+Low Index Value: 43 Compared to Pivot Value: 43
+High Index Value: 50 Compared to Pivot Value: 43
+High Index Value: 49 Compared to Pivot Value: 43
+High Index Value: 48 Compared to Pivot Value: 43
+High Index Value: 47 Compared to Pivot Value: 43
+High Index Value: 46 Compared to Pivot Value: 43
+High Index Value: 45 Compared to Pivot Value: 43
+High Index Value: 44 Compared to Pivot Value: 43
+High Index Value: 43 Compared to Pivot Value: 43
+Low Index: 42 Compared to High Index: 42
+Low Index: 42 Compared to High Index: 42
+Low Index: 43 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 44 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 4 Compared to Low Index Value: 44 PIVOT = 44
+Low Index Value: 44 Compared to Pivot Value: 44
+High Index Value: 50 Compared to Pivot Value: 44
+High Index Value: 49 Compared to Pivot Value: 44
+High Index Value: 48 Compared to Pivot Value: 44
+High Index Value: 47 Compared to Pivot Value: 44
+High Index Value: 46 Compared to Pivot Value: 44
+High Index Value: 45 Compared to Pivot Value: 44
+High Index Value: 44 Compared to Pivot Value: 44
+Low Index: 43 Compared to High Index: 43
+Low Index: 43 Compared to High Index: 43
+Low Index: 44 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 45 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 3 Compared to Low Index Value: 45 PIVOT = 45
+Low Index Value: 45 Compared to Pivot Value: 45
+High Index Value: 50 Compared to Pivot Value: 45
+High Index Value: 49 Compared to Pivot Value: 45
+High Index Value: 48 Compared to Pivot Value: 45
+High Index Value: 47 Compared to Pivot Value: 45
+High Index Value: 46 Compared to Pivot Value: 45
+High Index Value: 45 Compared to Pivot Value: 45
+Low Index: 44 Compared to High Index: 44
+Low Index: 44 Compared to High Index: 44
+Low Index: 45 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 46 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 3 Compared to Low Index Value: 46 PIVOT = 46
+Low Index Value: 46 Compared to Pivot Value: 46
+High Index Value: 50 Compared to Pivot Value: 46
+High Index Value: 49 Compared to Pivot Value: 46
+High Index Value: 48 Compared to Pivot Value: 46
+High Index Value: 47 Compared to Pivot Value: 46
+High Index Value: 46 Compared to Pivot Value: 46
+Low Index: 45 Compared to High Index: 45
+Low Index: 45 Compared to High Index: 45
+Low Index: 46 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 47 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 2 Compared to Low Index Value: 47 PIVOT = 47
+Low Index Value: 47 Compared to Pivot Value: 47
+High Index Value: 50 Compared to Pivot Value: 47
+High Index Value: 49 Compared to Pivot Value: 47
+High Index Value: 48 Compared to Pivot Value: 47
+High Index Value: 47 Compared to Pivot Value: 47
+Low Index: 46 Compared to High Index: 46
+Low Index: 46 Compared to High Index: 46
+Low Index: 47 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 48 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 2 Compared to Low Index Value: 48 PIVOT = 48
+Low Index Value: 48 Compared to Pivot Value: 48
+High Index Value: 50 Compared to Pivot Value: 48
+High Index Value: 49 Compared to Pivot Value: 48
+High Index Value: 48 Compared to Pivot Value: 48
+Low Index: 47 Compared to High Index: 47
+Low Index: 47 Compared to High Index: 47
+Low Index: 48 Compared to High Index: 49
+FOR PIVOT: Low Index Value: 49 Compared to High Index Value: 50
+FOR PIVOT: Mid-Point Value: 1 Compared to Low Index Value: 49 PIVOT = 49
+Low Index Value: 49 Compared to Pivot Value: 49
+High Index Value: 50 Compared to Pivot Value: 49
+High Index Value: 49 Compared to Pivot Value: 49
+Low Index: 48 Compared to High Index: 48
+Low Index: 48 Compared to High Index: 48
+Low Index: 49 Compared to High Index: 49
+
+Sorted List: 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+
+Comparison: 856	Exchanges: 25

@@ -1,0 +1,160 @@
+Natural Merge File Size 50 using file:  asc50.txt
+
+UnSorted List: 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+
+2 Compared to 1	2 Selected for Exchange
+3 Compared to 2	3 Selected for Exchange
+4 Compared to 3	4 Selected for Exchange
+5 Compared to 4	5 Selected for Exchange
+6 Compared to 5	6 Selected for Exchange
+7 Compared to 6	7 Selected for Exchange
+8 Compared to 7	8 Selected for Exchange
+9 Compared to 8	9 Selected for Exchange
+10 Compared to 9	10 Selected for Exchange
+11 Compared to 10	11 Selected for Exchange
+12 Compared to 11	12 Selected for Exchange
+13 Compared to 12	13 Selected for Exchange
+14 Compared to 13	14 Selected for Exchange
+15 Compared to 14	15 Selected for Exchange
+16 Compared to 15	16 Selected for Exchange
+17 Compared to 16	17 Selected for Exchange
+18 Compared to 17	18 Selected for Exchange
+19 Compared to 18	19 Selected for Exchange
+20 Compared to 19	20 Selected for Exchange
+21 Compared to 20	21 Selected for Exchange
+22 Compared to 21	22 Selected for Exchange
+23 Compared to 22	23 Selected for Exchange
+24 Compared to 23	24 Selected for Exchange
+25 Compared to 24	25 Selected for Exchange
+26 Compared to 25	26 Selected for Exchange
+27 Compared to 26	27 Selected for Exchange
+28 Compared to 27	28 Selected for Exchange
+29 Compared to 28	29 Selected for Exchange
+30 Compared to 29	30 Selected for Exchange
+31 Compared to 30	31 Selected for Exchange
+32 Compared to 31	32 Selected for Exchange
+33 Compared to 32	33 Selected for Exchange
+34 Compared to 33	34 Selected for Exchange
+35 Compared to 34	35 Selected for Exchange
+36 Compared to 35	36 Selected for Exchange
+37 Compared to 36	37 Selected for Exchange
+38 Compared to 37	38 Selected for Exchange
+39 Compared to 38	39 Selected for Exchange
+40 Compared to 39	40 Selected for Exchange
+41 Compared to 40	41 Selected for Exchange
+42 Compared to 41	42 Selected for Exchange
+43 Compared to 42	43 Selected for Exchange
+44 Compared to 43	44 Selected for Exchange
+45 Compared to 44	45 Selected for Exchange
+46 Compared to 45	46 Selected for Exchange
+47 Compared to 46	47 Selected for Exchange
+48 Compared to 47	48 Selected for Exchange
+49 Compared to 48	49 Selected for Exchange
+50 Compared to 49	50 Selected for Exchange
+
+Sorted List: 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+
+Comparison: 49	Exchanges: 49	 Merges: 0
+
+
+

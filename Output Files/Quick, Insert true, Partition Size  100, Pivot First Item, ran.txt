@@ -1,0 +1,718 @@
+Merge Sort File Size 50, Insertion Sort: true using file:  ran50.txt
+
+Pivot: First Item
+
+UnSorted List: 
+93
+81
+104
+72
+167
+129
+175
+157
+25
+226
+121
+133
+4
+42
+160
+111
+73
+9
+26
+200
+185
+40
+124
+158
+127
+76
+29
+83
+178
+51
+150
+33
+172
+35
+176
+93
+238
+71
+77
+134
+41
+208
+132
+131
+205
+226
+163
+13
+104
+135
+
+Low Index: 0 Compared to High Index: 49
+Partition Size: 49 Compared to Partition Max Size: 100
+93 Compared to 93	 No Insertion Sort Exchange!!
+81 Compared to 93	 81 Exchanged with 93 via Insertion Sort
+93 Compared to 81	 No Insertion Sort Exchange!!
+104 Compared to 93	 No Insertion Sort Exchange!!
+104 Compared to 104	 No Insertion Sort Exchange!!
+72 Compared to 104	 72 Exchanged with 104 via Insertion Sort
+72 Compared to 93	 72 Exchanged with 93 via Insertion Sort
+72 Compared to 81	 72 Exchanged with 81 via Insertion Sort
+104 Compared to 72	 No Insertion Sort Exchange!!
+167 Compared to 104	 No Insertion Sort Exchange!!
+167 Compared to 167	 No Insertion Sort Exchange!!
+129 Compared to 167	 129 Exchanged with 167 via Insertion Sort
+167 Compared to 129	 No Insertion Sort Exchange!!
+175 Compared to 167	 No Insertion Sort Exchange!!
+175 Compared to 175	 No Insertion Sort Exchange!!
+157 Compared to 175	 157 Exchanged with 175 via Insertion Sort
+157 Compared to 167	 157 Exchanged with 167 via Insertion Sort
+175 Compared to 157	 No Insertion Sort Exchange!!
+25 Compared to 175	 25 Exchanged with 175 via Insertion Sort
+25 Compared to 167	 25 Exchanged with 167 via Insertion Sort
+25 Compared to 157	 25 Exchanged with 157 via Insertion Sort
+25 Compared to 129	 25 Exchanged with 129 via Insertion Sort
+25 Compared to 104	 25 Exchanged with 104 via Insertion Sort
+25 Compared to 93	 25 Exchanged with 93 via Insertion Sort
+25 Compared to 81	 25 Exchanged with 81 via Insertion Sort
+25 Compared to 72	 25 Exchanged with 72 via Insertion Sort
+175 Compared to 25	 No Insertion Sort Exchange!!
+226 Compared to 175	 No Insertion Sort Exchange!!
+226 Compared to 226	 No Insertion Sort Exchange!!
+121 Compared to 226	 121 Exchanged with 226 via Insertion Sort
+121 Compared to 175	 121 Exchanged with 175 via Insertion Sort
+121 Compared to 167	 121 Exchanged with 167 via Insertion Sort
+121 Compared to 157	 121 Exchanged with 157 via Insertion Sort
+121 Compared to 129	 121 Exchanged with 129 via Insertion Sort
+226 Compared to 121	 No Insertion Sort Exchange!!
+133 Compared to 226	 133 Exchanged with 226 via Insertion Sort
+133 Compared to 175	 133 Exchanged with 175 via Insertion Sort
+133 Compared to 167	 133 Exchanged with 167 via Insertion Sort
+133 Compared to 157	 133 Exchanged with 157 via Insertion Sort
+226 Compared to 133	 No Insertion Sort Exchange!!
+4 Compared to 226	 4 Exchanged with 226 via Insertion Sort
+4 Compared to 175	 4 Exchanged with 175 via Insertion Sort
+4 Compared to 167	 4 Exchanged with 167 via Insertion Sort
+4 Compared to 157	 4 Exchanged with 157 via Insertion Sort
+4 Compared to 133	 4 Exchanged with 133 via Insertion Sort
+4 Compared to 129	 4 Exchanged with 129 via Insertion Sort
+4 Compared to 121	 4 Exchanged with 121 via Insertion Sort
+4 Compared to 104	 4 Exchanged with 104 via Insertion Sort
+4 Compared to 93	 4 Exchanged with 93 via Insertion Sort
+4 Compared to 81	 4 Exchanged with 81 via Insertion Sort
+4 Compared to 72	 4 Exchanged with 72 via Insertion Sort
+4 Compared to 25	 4 Exchanged with 25 via Insertion Sort
+226 Compared to 4	 No Insertion Sort Exchange!!
+42 Compared to 226	 42 Exchanged with 226 via Insertion Sort
+42 Compared to 175	 42 Exchanged with 175 via Insertion Sort
+42 Compared to 167	 42 Exchanged with 167 via Insertion Sort
+42 Compared to 157	 42 Exchanged with 157 via Insertion Sort
+42 Compared to 133	 42 Exchanged with 133 via Insertion Sort
+42 Compared to 129	 42 Exchanged with 129 via Insertion Sort
+42 Compared to 121	 42 Exchanged with 121 via Insertion Sort
+42 Compared to 104	 42 Exchanged with 104 via Insertion Sort
+42 Compared to 93	 42 Exchanged with 93 via Insertion Sort
+42 Compared to 81	 42 Exchanged with 81 via Insertion Sort
+42 Compared to 72	 42 Exchanged with 72 via Insertion Sort
+226 Compared to 42	 No Insertion Sort Exchange!!
+160 Compared to 226	 160 Exchanged with 226 via Insertion Sort
+160 Compared to 175	 160 Exchanged with 175 via Insertion Sort
+160 Compared to 167	 160 Exchanged with 167 via Insertion Sort
+226 Compared to 160	 No Insertion Sort Exchange!!
+111 Compared to 226	 111 Exchanged with 226 via Insertion Sort
+111 Compared to 175	 111 Exchanged with 175 via Insertion Sort
+111 Compared to 167	 111 Exchanged with 167 via Insertion Sort
+111 Compared to 160	 111 Exchanged with 160 via Insertion Sort
+111 Compared to 157	 111 Exchanged with 157 via Insertion Sort
+111 Compared to 133	 111 Exchanged with 133 via Insertion Sort
+111 Compared to 129	 111 Exchanged with 129 via Insertion Sort
+111 Compared to 121	 111 Exchanged with 121 via Insertion Sort
+226 Compared to 111	 No Insertion Sort Exchange!!
+73 Compared to 226	 73 Exchanged with 226 via Insertion Sort
+73 Compared to 175	 73 Exchanged with 175 via Insertion Sort
+73 Compared to 167	 73 Exchanged with 167 via Insertion Sort
+73 Compared to 160	 73 Exchanged with 160 via Insertion Sort
+73 Compared to 157	 73 Exchanged with 157 via Insertion Sort
+73 Compared to 133	 73 Exchanged with 133 via Insertion Sort
+73 Compared to 129	 73 Exchanged with 129 via Insertion Sort
+73 Compared to 121	 73 Exchanged with 121 via Insertion Sort
+73 Compared to 111	 73 Exchanged with 111 via Insertion Sort
+73 Compared to 104	 73 Exchanged with 104 via Insertion Sort
+73 Compared to 93	 73 Exchanged with 93 via Insertion Sort
+73 Compared to 81	 73 Exchanged with 81 via Insertion Sort
+226 Compared to 73	 No Insertion Sort Exchange!!
+9 Compared to 226	 9 Exchanged with 226 via Insertion Sort
+9 Compared to 175	 9 Exchanged with 175 via Insertion Sort
+9 Compared to 167	 9 Exchanged with 167 via Insertion Sort
+9 Compared to 160	 9 Exchanged with 160 via Insertion Sort
+9 Compared to 157	 9 Exchanged with 157 via Insertion Sort
+9 Compared to 133	 9 Exchanged with 133 via Insertion Sort
+9 Compared to 129	 9 Exchanged with 129 via Insertion Sort
+9 Compared to 121	 9 Exchanged with 121 via Insertion Sort
+9 Compared to 111	 9 Exchanged with 111 via Insertion Sort
+9 Compared to 104	 9 Exchanged with 104 via Insertion Sort
+9 Compared to 93	 9 Exchanged with 93 via Insertion Sort
+9 Compared to 81	 9 Exchanged with 81 via Insertion Sort
+9 Compared to 73	 9 Exchanged with 73 via Insertion Sort
+9 Compared to 72	 9 Exchanged with 72 via Insertion Sort
+9 Compared to 42	 9 Exchanged with 42 via Insertion Sort
+9 Compared to 25	 9 Exchanged with 25 via Insertion Sort
+226 Compared to 9	 No Insertion Sort Exchange!!
+26 Compared to 226	 26 Exchanged with 226 via Insertion Sort
+26 Compared to 175	 26 Exchanged with 175 via Insertion Sort
+26 Compared to 167	 26 Exchanged with 167 via Insertion Sort
+26 Compared to 160	 26 Exchanged with 160 via Insertion Sort
+26 Compared to 157	 26 Exchanged with 157 via Insertion Sort
+26 Compared to 133	 26 Exchanged with 133 via Insertion Sort
+26 Compared to 129	 26 Exchanged with 129 via Insertion Sort
+26 Compared to 121	 26 Exchanged with 121 via Insertion Sort
+26 Compared to 111	 26 Exchanged with 111 via Insertion Sort
+26 Compared to 104	 26 Exchanged with 104 via Insertion Sort
+26 Compared to 93	 26 Exchanged with 93 via Insertion Sort
+26 Compared to 81	 26 Exchanged with 81 via Insertion Sort
+26 Compared to 73	 26 Exchanged with 73 via Insertion Sort
+26 Compared to 72	 26 Exchanged with 72 via Insertion Sort
+26 Compared to 42	 26 Exchanged with 42 via Insertion Sort
+226 Compared to 26	 No Insertion Sort Exchange!!
+200 Compared to 226	 200 Exchanged with 226 via Insertion Sort
+226 Compared to 200	 No Insertion Sort Exchange!!
+185 Compared to 226	 185 Exchanged with 226 via Insertion Sort
+185 Compared to 200	 185 Exchanged with 200 via Insertion Sort
+226 Compared to 185	 No Insertion Sort Exchange!!
+40 Compared to 226	 40 Exchanged with 226 via Insertion Sort
+40 Compared to 200	 40 Exchanged with 200 via Insertion Sort
+40 Compared to 185	 40 Exchanged with 185 via Insertion Sort
+40 Compared to 175	 40 Exchanged with 175 via Insertion Sort
+40 Compared to 167	 40 Exchanged with 167 via Insertion Sort
+40 Compared to 160	 40 Exchanged with 160 via Insertion Sort
+40 Compared to 157	 40 Exchanged with 157 via Insertion Sort
+40 Compared to 133	 40 Exchanged with 133 via Insertion Sort
+40 Compared to 129	 40 Exchanged with 129 via Insertion Sort
+40 Compared to 121	 40 Exchanged with 121 via Insertion Sort
+40 Compared to 111	 40 Exchanged with 111 via Insertion Sort
+40 Compared to 104	 40 Exchanged with 104 via Insertion Sort
+40 Compared to 93	 40 Exchanged with 93 via Insertion Sort
+40 Compared to 81	 40 Exchanged with 81 via Insertion Sort
+40 Compared to 73	 40 Exchanged with 73 via Insertion Sort
+40 Compared to 72	 40 Exchanged with 72 via Insertion Sort
+40 Compared to 42	 40 Exchanged with 42 via Insertion Sort
+226 Compared to 40	 No Insertion Sort Exchange!!
+124 Compared to 226	 124 Exchanged with 226 via Insertion Sort
+124 Compared to 200	 124 Exchanged with 200 via Insertion Sort
+124 Compared to 185	 124 Exchanged with 185 via Insertion Sort
+124 Compared to 175	 124 Exchanged with 175 via Insertion Sort
+124 Compared to 167	 124 Exchanged with 167 via Insertion Sort
+124 Compared to 160	 124 Exchanged with 160 via Insertion Sort
+124 Compared to 157	 124 Exchanged with 157 via Insertion Sort
+124 Compared to 133	 124 Exchanged with 133 via Insertion Sort
+124 Compared to 129	 124 Exchanged with 129 via Insertion Sort
+226 Compared to 124	 No Insertion Sort Exchange!!
+158 Compared to 226	 158 Exchanged with 226 via Insertion Sort
+158 Compared to 200	 158 Exchanged with 200 via Insertion Sort
+158 Compared to 185	 158 Exchanged with 185 via Insertion Sort
+158 Compared to 175	 158 Exchanged with 175 via Insertion Sort
+158 Compared to 167	 158 Exchanged with 167 via Insertion Sort
+158 Compared to 160	 158 Exchanged with 160 via Insertion Sort
+226 Compared to 158	 No Insertion Sort Exchange!!
+127 Compared to 226	 127 Exchanged with 226 via Insertion Sort
+127 Compared to 200	 127 Exchanged with 200 via Insertion Sort
+127 Compared to 185	 127 Exchanged with 185 via Insertion Sort
+127 Compared to 175	 127 Exchanged with 175 via Insertion Sort
+127 Compared to 167	 127 Exchanged with 167 via Insertion Sort
+127 Compared to 160	 127 Exchanged with 160 via Insertion Sort
+127 Compared to 158	 127 Exchanged with 158 via Insertion Sort
+127 Compared to 157	 127 Exchanged with 157 via Insertion Sort
+127 Compared to 133	 127 Exchanged with 133 via Insertion Sort
+127 Compared to 129	 127 Exchanged with 129 via Insertion Sort
+226 Compared to 127	 No Insertion Sort Exchange!!
+76 Compared to 226	 76 Exchanged with 226 via Insertion Sort
+76 Compared to 200	 76 Exchanged with 200 via Insertion Sort
+76 Compared to 185	 76 Exchanged with 185 via Insertion Sort
+76 Compared to 175	 76 Exchanged with 175 via Insertion Sort
+76 Compared to 167	 76 Exchanged with 167 via Insertion Sort
+76 Compared to 160	 76 Exchanged with 160 via Insertion Sort
+76 Compared to 158	 76 Exchanged with 158 via Insertion Sort
+76 Compared to 157	 76 Exchanged with 157 via Insertion Sort
+76 Compared to 133	 76 Exchanged with 133 via Insertion Sort
+76 Compared to 129	 76 Exchanged with 129 via Insertion Sort
+76 Compared to 127	 76 Exchanged with 127 via Insertion Sort
+76 Compared to 124	 76 Exchanged with 124 via Insertion Sort
+76 Compared to 121	 76 Exchanged with 121 via Insertion Sort
+76 Compared to 111	 76 Exchanged with 111 via Insertion Sort
+76 Compared to 104	 76 Exchanged with 104 via Insertion Sort
+76 Compared to 93	 76 Exchanged with 93 via Insertion Sort
+76 Compared to 81	 76 Exchanged with 81 via Insertion Sort
+226 Compared to 76	 No Insertion Sort Exchange!!
+29 Compared to 226	 29 Exchanged with 226 via Insertion Sort
+29 Compared to 200	 29 Exchanged with 200 via Insertion Sort
+29 Compared to 185	 29 Exchanged with 185 via Insertion Sort
+29 Compared to 175	 29 Exchanged with 175 via Insertion Sort
+29 Compared to 167	 29 Exchanged with 167 via Insertion Sort
+29 Compared to 160	 29 Exchanged with 160 via Insertion Sort
+29 Compared to 158	 29 Exchanged with 158 via Insertion Sort
+29 Compared to 157	 29 Exchanged with 157 via Insertion Sort
+29 Compared to 133	 29 Exchanged with 133 via Insertion Sort
+29 Compared to 129	 29 Exchanged with 129 via Insertion Sort
+29 Compared to 127	 29 Exchanged with 127 via Insertion Sort
+29 Compared to 124	 29 Exchanged with 124 via Insertion Sort
+29 Compared to 121	 29 Exchanged with 121 via Insertion Sort
+29 Compared to 111	 29 Exchanged with 111 via Insertion Sort
+29 Compared to 104	 29 Exchanged with 104 via Insertion Sort
+29 Compared to 93	 29 Exchanged with 93 via Insertion Sort
+29 Compared to 81	 29 Exchanged with 81 via Insertion Sort
+29 Compared to 76	 29 Exchanged with 76 via Insertion Sort
+29 Compared to 73	 29 Exchanged with 73 via Insertion Sort
+29 Compared to 72	 29 Exchanged with 72 via Insertion Sort
+29 Compared to 42	 29 Exchanged with 42 via Insertion Sort
+29 Compared to 40	 29 Exchanged with 40 via Insertion Sort
+226 Compared to 29	 No Insertion Sort Exchange!!
+83 Compared to 226	 83 Exchanged with 226 via Insertion Sort
+83 Compared to 200	 83 Exchanged with 200 via Insertion Sort
+83 Compared to 185	 83 Exchanged with 185 via Insertion Sort
+83 Compared to 175	 83 Exchanged with 175 via Insertion Sort
+83 Compared to 167	 83 Exchanged with 167 via Insertion Sort
+83 Compared to 160	 83 Exchanged with 160 via Insertion Sort
+83 Compared to 158	 83 Exchanged with 158 via Insertion Sort
+83 Compared to 157	 83 Exchanged with 157 via Insertion Sort
+83 Compared to 133	 83 Exchanged with 133 via Insertion Sort
+83 Compared to 129	 83 Exchanged with 129 via Insertion Sort
+83 Compared to 127	 83 Exchanged with 127 via Insertion Sort
+83 Compared to 124	 83 Exchanged with 124 via Insertion Sort
+83 Compared to 121	 83 Exchanged with 121 via Insertion Sort
+83 Compared to 111	 83 Exchanged with 111 via Insertion Sort
+83 Compared to 104	 83 Exchanged with 104 via Insertion Sort
+83 Compared to 93	 83 Exchanged with 93 via Insertion Sort
+226 Compared to 83	 No Insertion Sort Exchange!!
+178 Compared to 226	 178 Exchanged with 226 via Insertion Sort
+178 Compared to 200	 178 Exchanged with 200 via Insertion Sort
+178 Compared to 185	 178 Exchanged with 185 via Insertion Sort
+226 Compared to 178	 No Insertion Sort Exchange!!
+51 Compared to 226	 51 Exchanged with 226 via Insertion Sort
+51 Compared to 200	 51 Exchanged with 200 via Insertion Sort
+51 Compared to 185	 51 Exchanged with 185 via Insertion Sort
+51 Compared to 178	 51 Exchanged with 178 via Insertion Sort
+51 Compared to 175	 51 Exchanged with 175 via Insertion Sort
+51 Compared to 167	 51 Exchanged with 167 via Insertion Sort
+51 Compared to 160	 51 Exchanged with 160 via Insertion Sort
+51 Compared to 158	 51 Exchanged with 158 via Insertion Sort
+51 Compared to 157	 51 Exchanged with 157 via Insertion Sort
+51 Compared to 133	 51 Exchanged with 133 via Insertion Sort
+51 Compared to 129	 51 Exchanged with 129 via Insertion Sort
+51 Compared to 127	 51 Exchanged with 127 via Insertion Sort
+51 Compared to 124	 51 Exchanged with 124 via Insertion Sort
+51 Compared to 121	 51 Exchanged with 121 via Insertion Sort
+51 Compared to 111	 51 Exchanged with 111 via Insertion Sort
+51 Compared to 104	 51 Exchanged with 104 via Insertion Sort
+51 Compared to 93	 51 Exchanged with 93 via Insertion Sort
+51 Compared to 83	 51 Exchanged with 83 via Insertion Sort
+51 Compared to 81	 51 Exchanged with 81 via Insertion Sort
+51 Compared to 76	 51 Exchanged with 76 via Insertion Sort
+51 Compared to 73	 51 Exchanged with 73 via Insertion Sort
+51 Compared to 72	 51 Exchanged with 72 via Insertion Sort
+226 Compared to 51	 No Insertion Sort Exchange!!
+150 Compared to 226	 150 Exchanged with 226 via Insertion Sort
+150 Compared to 200	 150 Exchanged with 200 via Insertion Sort
+150 Compared to 185	 150 Exchanged with 185 via Insertion Sort
+150 Compared to 178	 150 Exchanged with 178 via Insertion Sort
+150 Compared to 175	 150 Exchanged with 175 via Insertion Sort
+150 Compared to 167	 150 Exchanged with 167 via Insertion Sort
+150 Compared to 160	 150 Exchanged with 160 via Insertion Sort
+150 Compared to 158	 150 Exchanged with 158 via Insertion Sort
+150 Compared to 157	 150 Exchanged with 157 via Insertion Sort
+226 Compared to 150	 No Insertion Sort Exchange!!
+33 Compared to 226	 33 Exchanged with 226 via Insertion Sort
+33 Compared to 200	 33 Exchanged with 200 via Insertion Sort
+33 Compared to 185	 33 Exchanged with 185 via Insertion Sort
+33 Compared to 178	 33 Exchanged with 178 via Insertion Sort
+33 Compared to 175	 33 Exchanged with 175 via Insertion Sort
+33 Compared to 167	 33 Exchanged with 167 via Insertion Sort
+33 Compared to 160	 33 Exchanged with 160 via Insertion Sort
+33 Compared to 158	 33 Exchanged with 158 via Insertion Sort
+33 Compared to 157	 33 Exchanged with 157 via Insertion Sort
+33 Compared to 150	 33 Exchanged with 150 via Insertion Sort
+33 Compared to 133	 33 Exchanged with 133 via Insertion Sort
+33 Compared to 129	 33 Exchanged with 129 via Insertion Sort
+33 Compared to 127	 33 Exchanged with 127 via Insertion Sort
+33 Compared to 124	 33 Exchanged with 124 via Insertion Sort
+33 Compared to 121	 33 Exchanged with 121 via Insertion Sort
+33 Compared to 111	 33 Exchanged with 111 via Insertion Sort
+33 Compared to 104	 33 Exchanged with 104 via Insertion Sort
+33 Compared to 93	 33 Exchanged with 93 via Insertion Sort
+33 Compared to 83	 33 Exchanged with 83 via Insertion Sort
+33 Compared to 81	 33 Exchanged with 81 via Insertion Sort
+33 Compared to 76	 33 Exchanged with 76 via Insertion Sort
+33 Compared to 73	 33 Exchanged with 73 via Insertion Sort
+33 Compared to 72	 33 Exchanged with 72 via Insertion Sort
+33 Compared to 51	 33 Exchanged with 51 via Insertion Sort
+33 Compared to 42	 33 Exchanged with 42 via Insertion Sort
+33 Compared to 40	 33 Exchanged with 40 via Insertion Sort
+226 Compared to 33	 No Insertion Sort Exchange!!
+172 Compared to 226	 172 Exchanged with 226 via Insertion Sort
+172 Compared to 200	 172 Exchanged with 200 via Insertion Sort
+172 Compared to 185	 172 Exchanged with 185 via Insertion Sort
+172 Compared to 178	 172 Exchanged with 178 via Insertion Sort
+172 Compared to 175	 172 Exchanged with 175 via Insertion Sort
+226 Compared to 172	 No Insertion Sort Exchange!!
+35 Compared to 226	 35 Exchanged with 226 via Insertion Sort
+35 Compared to 200	 35 Exchanged with 200 via Insertion Sort
+35 Compared to 185	 35 Exchanged with 185 via Insertion Sort
+35 Compared to 178	 35 Exchanged with 178 via Insertion Sort
+35 Compared to 175	 35 Exchanged with 175 via Insertion Sort
+35 Compared to 172	 35 Exchanged with 172 via Insertion Sort
+35 Compared to 167	 35 Exchanged with 167 via Insertion Sort
+35 Compared to 160	 35 Exchanged with 160 via Insertion Sort
+35 Compared to 158	 35 Exchanged with 158 via Insertion Sort
+35 Compared to 157	 35 Exchanged with 157 via Insertion Sort
+35 Compared to 150	 35 Exchanged with 150 via Insertion Sort
+35 Compared to 133	 35 Exchanged with 133 via Insertion Sort
+35 Compared to 129	 35 Exchanged with 129 via Insertion Sort
+35 Compared to 127	 35 Exchanged with 127 via Insertion Sort
+35 Compared to 124	 35 Exchanged with 124 via Insertion Sort
+35 Compared to 121	 35 Exchanged with 121 via Insertion Sort
+35 Compared to 111	 35 Exchanged with 111 via Insertion Sort
+35 Compared to 104	 35 Exchanged with 104 via Insertion Sort
+35 Compared to 93	 35 Exchanged with 93 via Insertion Sort
+35 Compared to 83	 35 Exchanged with 83 via Insertion Sort
+35 Compared to 81	 35 Exchanged with 81 via Insertion Sort
+35 Compared to 76	 35 Exchanged with 76 via Insertion Sort
+35 Compared to 73	 35 Exchanged with 73 via Insertion Sort
+35 Compared to 72	 35 Exchanged with 72 via Insertion Sort
+35 Compared to 51	 35 Exchanged with 51 via Insertion Sort
+35 Compared to 42	 35 Exchanged with 42 via Insertion Sort
+35 Compared to 40	 35 Exchanged with 40 via Insertion Sort
+226 Compared to 35	 No Insertion Sort Exchange!!
+176 Compared to 226	 176 Exchanged with 226 via Insertion Sort
+176 Compared to 200	 176 Exchanged with 200 via Insertion Sort
+176 Compared to 185	 176 Exchanged with 185 via Insertion Sort
+176 Compared to 178	 176 Exchanged with 178 via Insertion Sort
+226 Compared to 176	 No Insertion Sort Exchange!!
+93 Compared to 226	 93 Exchanged with 226 via Insertion Sort
+93 Compared to 200	 93 Exchanged with 200 via Insertion Sort
+93 Compared to 185	 93 Exchanged with 185 via Insertion Sort
+93 Compared to 178	 93 Exchanged with 178 via Insertion Sort
+93 Compared to 176	 93 Exchanged with 176 via Insertion Sort
+93 Compared to 175	 93 Exchanged with 175 via Insertion Sort
+93 Compared to 172	 93 Exchanged with 172 via Insertion Sort
+93 Compared to 167	 93 Exchanged with 167 via Insertion Sort
+93 Compared to 160	 93 Exchanged with 160 via Insertion Sort
+93 Compared to 158	 93 Exchanged with 158 via Insertion Sort
+93 Compared to 157	 93 Exchanged with 157 via Insertion Sort
+93 Compared to 150	 93 Exchanged with 150 via Insertion Sort
+93 Compared to 133	 93 Exchanged with 133 via Insertion Sort
+93 Compared to 129	 93 Exchanged with 129 via Insertion Sort
+93 Compared to 127	 93 Exchanged with 127 via Insertion Sort
+93 Compared to 124	 93 Exchanged with 124 via Insertion Sort
+93 Compared to 121	 93 Exchanged with 121 via Insertion Sort
+93 Compared to 111	 93 Exchanged with 111 via Insertion Sort
+93 Compared to 104	 93 Exchanged with 104 via Insertion Sort
+226 Compared to 93	 No Insertion Sort Exchange!!
+238 Compared to 226	 No Insertion Sort Exchange!!
+238 Compared to 238	 No Insertion Sort Exchange!!
+71 Compared to 238	 71 Exchanged with 238 via Insertion Sort
+71 Compared to 226	 71 Exchanged with 226 via Insertion Sort
+71 Compared to 200	 71 Exchanged with 200 via Insertion Sort
+71 Compared to 185	 71 Exchanged with 185 via Insertion Sort
+71 Compared to 178	 71 Exchanged with 178 via Insertion Sort
+71 Compared to 176	 71 Exchanged with 176 via Insertion Sort
+71 Compared to 175	 71 Exchanged with 175 via Insertion Sort
+71 Compared to 172	 71 Exchanged with 172 via Insertion Sort
+71 Compared to 167	 71 Exchanged with 167 via Insertion Sort
+71 Compared to 160	 71 Exchanged with 160 via Insertion Sort
+71 Compared to 158	 71 Exchanged with 158 via Insertion Sort
+71 Compared to 157	 71 Exchanged with 157 via Insertion Sort
+71 Compared to 150	 71 Exchanged with 150 via Insertion Sort
+71 Compared to 133	 71 Exchanged with 133 via Insertion Sort
+71 Compared to 129	 71 Exchanged with 129 via Insertion Sort
+71 Compared to 127	 71 Exchanged with 127 via Insertion Sort
+71 Compared to 124	 71 Exchanged with 124 via Insertion Sort
+71 Compared to 121	 71 Exchanged with 121 via Insertion Sort
+71 Compared to 111	 71 Exchanged with 111 via Insertion Sort
+71 Compared to 104	 71 Exchanged with 104 via Insertion Sort
+71 Compared to 93	 71 Exchanged with 93 via Insertion Sort
+71 Compared to 93	 71 Exchanged with 93 via Insertion Sort
+71 Compared to 83	 71 Exchanged with 83 via Insertion Sort
+71 Compared to 81	 71 Exchanged with 81 via Insertion Sort
+71 Compared to 76	 71 Exchanged with 76 via Insertion Sort
+71 Compared to 73	 71 Exchanged with 73 via Insertion Sort
+71 Compared to 72	 71 Exchanged with 72 via Insertion Sort
+238 Compared to 71	 No Insertion Sort Exchange!!
+77 Compared to 238	 77 Exchanged with 238 via Insertion Sort
+77 Compared to 226	 77 Exchanged with 226 via Insertion Sort
+77 Compared to 200	 77 Exchanged with 200 via Insertion Sort
+77 Compared to 185	 77 Exchanged with 185 via Insertion Sort
+77 Compared to 178	 77 Exchanged with 178 via Insertion Sort
+77 Compared to 176	 77 Exchanged with 176 via Insertion Sort
+77 Compared to 175	 77 Exchanged with 175 via Insertion Sort
+77 Compared to 172	 77 Exchanged with 172 via Insertion Sort
+77 Compared to 167	 77 Exchanged with 167 via Insertion Sort
+77 Compared to 160	 77 Exchanged with 160 via Insertion Sort
+77 Compared to 158	 77 Exchanged with 158 via Insertion Sort
+77 Compared to 157	 77 Exchanged with 157 via Insertion Sort
+77 Compared to 150	 77 Exchanged with 150 via Insertion Sort
+77 Compared to 133	 77 Exchanged with 133 via Insertion Sort
+77 Compared to 129	 77 Exchanged with 129 via Insertion Sort
+77 Compared to 127	 77 Exchanged with 127 via Insertion Sort
+77 Compared to 124	 77 Exchanged with 124 via Insertion Sort
+77 Compared to 121	 77 Exchanged with 121 via Insertion Sort
+77 Compared to 111	 77 Exchanged with 111 via Insertion Sort
+77 Compared to 104	 77 Exchanged with 104 via Insertion Sort
+77 Compared to 93	 77 Exchanged with 93 via Insertion Sort
+77 Compared to 93	 77 Exchanged with 93 via Insertion Sort
+77 Compared to 83	 77 Exchanged with 83 via Insertion Sort
+77 Compared to 81	 77 Exchanged with 81 via Insertion Sort
+238 Compared to 77	 No Insertion Sort Exchange!!
+134 Compared to 238	 134 Exchanged with 238 via Insertion Sort
+134 Compared to 226	 134 Exchanged with 226 via Insertion Sort
+134 Compared to 200	 134 Exchanged with 200 via Insertion Sort
+134 Compared to 185	 134 Exchanged with 185 via Insertion Sort
+134 Compared to 178	 134 Exchanged with 178 via Insertion Sort
+134 Compared to 176	 134 Exchanged with 176 via Insertion Sort
+134 Compared to 175	 134 Exchanged with 175 via Insertion Sort
+134 Compared to 172	 134 Exchanged with 172 via Insertion Sort
+134 Compared to 167	 134 Exchanged with 167 via Insertion Sort
+134 Compared to 160	 134 Exchanged with 160 via Insertion Sort
+134 Compared to 158	 134 Exchanged with 158 via Insertion Sort
+134 Compared to 157	 134 Exchanged with 157 via Insertion Sort
+134 Compared to 150	 134 Exchanged with 150 via Insertion Sort
+238 Compared to 134	 No Insertion Sort Exchange!!
+41 Compared to 238	 41 Exchanged with 238 via Insertion Sort
+41 Compared to 226	 41 Exchanged with 226 via Insertion Sort
+41 Compared to 200	 41 Exchanged with 200 via Insertion Sort
+41 Compared to 185	 41 Exchanged with 185 via Insertion Sort
+41 Compared to 178	 41 Exchanged with 178 via Insertion Sort
+41 Compared to 176	 41 Exchanged with 176 via Insertion Sort
+41 Compared to 175	 41 Exchanged with 175 via Insertion Sort
+41 Compared to 172	 41 Exchanged with 172 via Insertion Sort
+41 Compared to 167	 41 Exchanged with 167 via Insertion Sort
+41 Compared to 160	 41 Exchanged with 160 via Insertion Sort
+41 Compared to 158	 41 Exchanged with 158 via Insertion Sort
+41 Compared to 157	 41 Exchanged with 157 via Insertion Sort
+41 Compared to 150	 41 Exchanged with 150 via Insertion Sort
+41 Compared to 134	 41 Exchanged with 134 via Insertion Sort
+41 Compared to 133	 41 Exchanged with 133 via Insertion Sort
+41 Compared to 129	 41 Exchanged with 129 via Insertion Sort
+41 Compared to 127	 41 Exchanged with 127 via Insertion Sort
+41 Compared to 124	 41 Exchanged with 124 via Insertion Sort
+41 Compared to 121	 41 Exchanged with 121 via Insertion Sort
+41 Compared to 111	 41 Exchanged with 111 via Insertion Sort
+41 Compared to 104	 41 Exchanged with 104 via Insertion Sort
+41 Compared to 93	 41 Exchanged with 93 via Insertion Sort
+41 Compared to 93	 41 Exchanged with 93 via Insertion Sort
+41 Compared to 83	 41 Exchanged with 83 via Insertion Sort
+41 Compared to 81	 41 Exchanged with 81 via Insertion Sort
+41 Compared to 77	 41 Exchanged with 77 via Insertion Sort
+41 Compared to 76	 41 Exchanged with 76 via Insertion Sort
+41 Compared to 73	 41 Exchanged with 73 via Insertion Sort
+41 Compared to 72	 41 Exchanged with 72 via Insertion Sort
+41 Compared to 71	 41 Exchanged with 71 via Insertion Sort
+41 Compared to 51	 41 Exchanged with 51 via Insertion Sort
+41 Compared to 42	 41 Exchanged with 42 via Insertion Sort
+238 Compared to 41	 No Insertion Sort Exchange!!
+208 Compared to 238	 208 Exchanged with 238 via Insertion Sort
+208 Compared to 226	 208 Exchanged with 226 via Insertion Sort
+238 Compared to 208	 No Insertion Sort Exchange!!
+132 Compared to 238	 132 Exchanged with 238 via Insertion Sort
+132 Compared to 226	 132 Exchanged with 226 via Insertion Sort
+132 Compared to 208	 132 Exchanged with 208 via Insertion Sort
+132 Compared to 200	 132 Exchanged with 200 via Insertion Sort
+132 Compared to 185	 132 Exchanged with 185 via Insertion Sort
+132 Compared to 178	 132 Exchanged with 178 via Insertion Sort
+132 Compared to 176	 132 Exchanged with 176 via Insertion Sort
+132 Compared to 175	 132 Exchanged with 175 via Insertion Sort
+132 Compared to 172	 132 Exchanged with 172 via Insertion Sort
+132 Compared to 167	 132 Exchanged with 167 via Insertion Sort
+132 Compared to 160	 132 Exchanged with 160 via Insertion Sort
+132 Compared to 158	 132 Exchanged with 158 via Insertion Sort
+132 Compared to 157	 132 Exchanged with 157 via Insertion Sort
+132 Compared to 150	 132 Exchanged with 150 via Insertion Sort
+132 Compared to 134	 132 Exchanged with 134 via Insertion Sort
+132 Compared to 133	 132 Exchanged with 133 via Insertion Sort
+238 Compared to 132	 No Insertion Sort Exchange!!
+131 Compared to 238	 131 Exchanged with 238 via Insertion Sort
+131 Compared to 226	 131 Exchanged with 226 via Insertion Sort
+131 Compared to 208	 131 Exchanged with 208 via Insertion Sort
+131 Compared to 200	 131 Exchanged with 200 via Insertion Sort
+131 Compared to 185	 131 Exchanged with 185 via Insertion Sort
+131 Compared to 178	 131 Exchanged with 178 via Insertion Sort
+131 Compared to 176	 131 Exchanged with 176 via Insertion Sort
+131 Compared to 175	 131 Exchanged with 175 via Insertion Sort
+131 Compared to 172	 131 Exchanged with 172 via Insertion Sort
+131 Compared to 167	 131 Exchanged with 167 via Insertion Sort
+131 Compared to 160	 131 Exchanged with 160 via Insertion Sort
+131 Compared to 158	 131 Exchanged with 158 via Insertion Sort
+131 Compared to 157	 131 Exchanged with 157 via Insertion Sort
+131 Compared to 150	 131 Exchanged with 150 via Insertion Sort
+131 Compared to 134	 131 Exchanged with 134 via Insertion Sort
+131 Compared to 133	 131 Exchanged with 133 via Insertion Sort
+131 Compared to 132	 131 Exchanged with 132 via Insertion Sort
+238 Compared to 131	 No Insertion Sort Exchange!!
+205 Compared to 238	 205 Exchanged with 238 via Insertion Sort
+205 Compared to 226	 205 Exchanged with 226 via Insertion Sort
+205 Compared to 208	 205 Exchanged with 208 via Insertion Sort
+238 Compared to 205	 No Insertion Sort Exchange!!
+226 Compared to 238	 226 Exchanged with 238 via Insertion Sort
+238 Compared to 226	 No Insertion Sort Exchange!!
+163 Compared to 238	 163 Exchanged with 238 via Insertion Sort
+163 Compared to 226	 163 Exchanged with 226 via Insertion Sort
+163 Compared to 226	 163 Exchanged with 226 via Insertion Sort
+163 Compared to 208	 163 Exchanged with 208 via Insertion Sort
+163 Compared to 205	 163 Exchanged with 205 via Insertion Sort
+163 Compared to 200	 163 Exchanged with 200 via Insertion Sort
+163 Compared to 185	 163 Exchanged with 185 via Insertion Sort
+163 Compared to 178	 163 Exchanged with 178 via Insertion Sort
+163 Compared to 176	 163 Exchanged with 176 via Insertion Sort
+163 Compared to 175	 163 Exchanged with 175 via Insertion Sort
+163 Compared to 172	 163 Exchanged with 172 via Insertion Sort
+163 Compared to 167	 163 Exchanged with 167 via Insertion Sort
+238 Compared to 163	 No Insertion Sort Exchange!!
+13 Compared to 238	 13 Exchanged with 238 via Insertion Sort
+13 Compared to 226	 13 Exchanged with 226 via Insertion Sort
+13 Compared to 226	 13 Exchanged with 226 via Insertion Sort
+13 Compared to 208	 13 Exchanged with 208 via Insertion Sort
+13 Compared to 205	 13 Exchanged with 205 via Insertion Sort
+13 Compared to 200	 13 Exchanged with 200 via Insertion Sort
+13 Compared to 185	 13 Exchanged with 185 via Insertion Sort
+13 Compared to 178	 13 Exchanged with 178 via Insertion Sort
+13 Compared to 176	 13 Exchanged with 176 via Insertion Sort
+13 Compared to 175	 13 Exchanged with 175 via Insertion Sort
+13 Compared to 172	 13 Exchanged with 172 via Insertion Sort
+13 Compared to 167	 13 Exchanged with 167 via Insertion Sort
+13 Compared to 163	 13 Exchanged with 163 via Insertion Sort
+13 Compared to 160	 13 Exchanged with 160 via Insertion Sort
+13 Compared to 158	 13 Exchanged with 158 via Insertion Sort
+13 Compared to 157	 13 Exchanged with 157 via Insertion Sort
+13 Compared to 150	 13 Exchanged with 150 via Insertion Sort
+13 Compared to 134	 13 Exchanged with 134 via Insertion Sort
+13 Compared to 133	 13 Exchanged with 133 via Insertion Sort
+13 Compared to 132	 13 Exchanged with 132 via Insertion Sort
+13 Compared to 131	 13 Exchanged with 131 via Insertion Sort
+13 Compared to 129	 13 Exchanged with 129 via Insertion Sort
+13 Compared to 127	 13 Exchanged with 127 via Insertion Sort
+13 Compared to 124	 13 Exchanged with 124 via Insertion Sort
+13 Compared to 121	 13 Exchanged with 121 via Insertion Sort
+13 Compared to 111	 13 Exchanged with 111 via Insertion Sort
+13 Compared to 104	 13 Exchanged with 104 via Insertion Sort
+13 Compared to 93	 13 Exchanged with 93 via Insertion Sort
+13 Compared to 93	 13 Exchanged with 93 via Insertion Sort
+13 Compared to 83	 13 Exchanged with 83 via Insertion Sort
+13 Compared to 81	 13 Exchanged with 81 via Insertion Sort
+13 Compared to 77	 13 Exchanged with 77 via Insertion Sort
+13 Compared to 76	 13 Exchanged with 76 via Insertion Sort
+13 Compared to 73	 13 Exchanged with 73 via Insertion Sort
+13 Compared to 72	 13 Exchanged with 72 via Insertion Sort
+13 Compared to 71	 13 Exchanged with 71 via Insertion Sort
+13 Compared to 51	 13 Exchanged with 51 via Insertion Sort
+13 Compared to 42	 13 Exchanged with 42 via Insertion Sort
+13 Compared to 41	 13 Exchanged with 41 via Insertion Sort
+13 Compared to 40	 13 Exchanged with 40 via Insertion Sort
+13 Compared to 35	 13 Exchanged with 35 via Insertion Sort
+13 Compared to 33	 13 Exchanged with 33 via Insertion Sort
+13 Compared to 29	 13 Exchanged with 29 via Insertion Sort
+13 Compared to 26	 13 Exchanged with 26 via Insertion Sort
+13 Compared to 25	 13 Exchanged with 25 via Insertion Sort
+238 Compared to 13	 No Insertion Sort Exchange!!
+104 Compared to 238	 104 Exchanged with 238 via Insertion Sort
+104 Compared to 226	 104 Exchanged with 226 via Insertion Sort
+104 Compared to 226	 104 Exchanged with 226 via Insertion Sort
+104 Compared to 208	 104 Exchanged with 208 via Insertion Sort
+104 Compared to 205	 104 Exchanged with 205 via Insertion Sort
+104 Compared to 200	 104 Exchanged with 200 via Insertion Sort
+104 Compared to 185	 104 Exchanged with 185 via Insertion Sort
+104 Compared to 178	 104 Exchanged with 178 via Insertion Sort
+104 Compared to 176	 104 Exchanged with 176 via Insertion Sort
+104 Compared to 175	 104 Exchanged with 175 via Insertion Sort
+104 Compared to 172	 104 Exchanged with 172 via Insertion Sort
+104 Compared to 167	 104 Exchanged with 167 via Insertion Sort
+104 Compared to 163	 104 Exchanged with 163 via Insertion Sort
+104 Compared to 160	 104 Exchanged with 160 via Insertion Sort
+104 Compared to 158	 104 Exchanged with 158 via Insertion Sort
+104 Compared to 157	 104 Exchanged with 157 via Insertion Sort
+104 Compared to 150	 104 Exchanged with 150 via Insertion Sort
+104 Compared to 134	 104 Exchanged with 134 via Insertion Sort
+104 Compared to 133	 104 Exchanged with 133 via Insertion Sort
+104 Compared to 132	 104 Exchanged with 132 via Insertion Sort
+104 Compared to 131	 104 Exchanged with 131 via Insertion Sort
+104 Compared to 129	 104 Exchanged with 129 via Insertion Sort
+104 Compared to 127	 104 Exchanged with 127 via Insertion Sort
+104 Compared to 124	 104 Exchanged with 124 via Insertion Sort
+104 Compared to 121	 104 Exchanged with 121 via Insertion Sort
+104 Compared to 111	 104 Exchanged with 111 via Insertion Sort
+238 Compared to 104	 No Insertion Sort Exchange!!
+135 Compared to 238	 135 Exchanged with 238 via Insertion Sort
+135 Compared to 226	 135 Exchanged with 226 via Insertion Sort
+135 Compared to 226	 135 Exchanged with 226 via Insertion Sort
+135 Compared to 208	 135 Exchanged with 208 via Insertion Sort
+135 Compared to 205	 135 Exchanged with 205 via Insertion Sort
+135 Compared to 200	 135 Exchanged with 200 via Insertion Sort
+135 Compared to 185	 135 Exchanged with 185 via Insertion Sort
+135 Compared to 178	 135 Exchanged with 178 via Insertion Sort
+135 Compared to 176	 135 Exchanged with 176 via Insertion Sort
+135 Compared to 175	 135 Exchanged with 175 via Insertion Sort
+135 Compared to 172	 135 Exchanged with 172 via Insertion Sort
+135 Compared to 167	 135 Exchanged with 167 via Insertion Sort
+135 Compared to 163	 135 Exchanged with 163 via Insertion Sort
+135 Compared to 160	 135 Exchanged with 160 via Insertion Sort
+135 Compared to 158	 135 Exchanged with 158 via Insertion Sort
+135 Compared to 157	 135 Exchanged with 157 via Insertion Sort
+135 Compared to 150	 135 Exchanged with 150 via Insertion Sort
+238 Compared to 135	 No Insertion Sort Exchange!!
+
+Sorted List: 
+4
+9
+13
+25
+26
+29
+33
+35
+40
+41
+42
+51
+71
+72
+73
+76
+77
+81
+83
+93
+93
+104
+104
+111
+121
+124
+127
+129
+131
+132
+133
+134
+135
+150
+157
+158
+160
+163
+167
+172
+175
+176
+178
+185
+200
+205
+208
+226
+226
+238
+
+Comparison: 603	Exchanges: 551

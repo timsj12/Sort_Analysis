@@ -13,15 +13,10 @@ Run the program by:
 
 Note: Text file must have integer values only.
 
-I was not able to my program to write my output (Comparisons and Exchanges to a File)  They output to
-to the console.  Each file needs to be ran individually :(  My apologies.  Been busy and ran
-out of time.
 
-Size data set files will output all exchanges and comparisons to the console.
+Any size data set files will output all exchanges and comparisons to the console.
 
-In order for this to happen  filename must be "***50.txt"  the 4th and 5th characters must be "50"
-
-All other size files will only provide the comparison and exchange summary to the console.  
+Data sets of size 50 will output to a new .txt file.  All other size files will only provide the comparison and exchange summary to the console for the sort.  
 
 
 
